@@ -1,0 +1,1697 @@
+@prefix as: <http://www.w3.org/ns/activitystreams#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix glob: <https://github.com/globalise-huygens/nlp-event-detection/wiki#> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sem: <http://semanticweb.cs.vu.nl/2009/11/sem/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<urn:globalise:annotation:unknown:02761bcf-ee2c-46c8-b765-606ad49d49c6> a oa:Annotation ;
+    oa:hasBody <urn:globalise:entity:unknown:381-392:eerstclercq> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3745> .
+
+<urn:globalise:annotation:unknown:1a4b9b4f-cae9-49e6-89af-b3e8f0ca401d> a oa:Annotation ;
+    oa:hasBody <urn:globalise:entity:unknown:650-666:den_15_e_courant> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3757> .
+
+<urn:globalise:annotation:unknown:1dde566d-fcc0-4a01-8640-b0d5691ff9fd> a oa:Annotation ;
+    oa:hasBody <urn:globalise:entity:unknown:1031-1055:princenduanhagie_mannerh> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3829> .
+
+<urn:globalise:annotation:unknown:214744b2-58fc-4280-8ec4-4aa69e996917> a oa:Annotation ;
+    oa:hasBody <urn:globalise:event:unknown:versoeckende:3584> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3584> .
+
+<urn:globalise:annotation:unknown:2d8d4e9a-9fb9-4d5f-a6b1-3130e0187ba0> a oa:Annotation ;
+    oa:hasBody <urn:globalise:event:unknown:aenquam:3696> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3696> .
+
+<urn:globalise:annotation:unknown:3570-3951> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097597"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:AgentPatient ] ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3570>,
+        <urn:globalise:annotation:unknown:3951> ;
+    oa:motivatedBy oa:linking .
+
+<urn:globalise:annotation:unknown:3591-3957> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097665"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Patient ] ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3591>,
+        <urn:globalise:annotation:unknown:3957> ;
+    oa:motivatedBy oa:linking .
+
+<urn:globalise:annotation:unknown:3598-3963> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097693"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Agent ] ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3598>,
+        <urn:globalise:annotation:unknown:3963> ;
+    oa:motivatedBy oa:linking .
+
+<urn:globalise:annotation:unknown:3598-3966> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097703"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Benefactive ] ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3598>,
+        <urn:globalise:annotation:unknown:3966> ;
+    oa:motivatedBy oa:linking .
+
+<urn:globalise:annotation:unknown:3598-3969> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097715"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Patient ] ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3598>,
+        <urn:globalise:annotation:unknown:3969> ;
+    oa:motivatedBy oa:linking .
+
+<urn:globalise:annotation:unknown:3612-3977> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097763"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Patient ] ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3612>,
+        <urn:globalise:annotation:unknown:3977> ;
+    oa:motivatedBy oa:linking .
+
+<urn:globalise:annotation:unknown:3619-3983> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097792"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Target ] ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3619>,
+        <urn:globalise:annotation:unknown:3983> ;
+    oa:motivatedBy oa:linking .
+
+<urn:globalise:annotation:unknown:3619-3986> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097802"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Agent ] ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3619>,
+        <urn:globalise:annotation:unknown:3986> ;
+    oa:motivatedBy oa:linking .
+
+<urn:globalise:annotation:unknown:3626-3993> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097832"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:AgentPatient ] ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3626>,
+        <urn:globalise:annotation:unknown:3993> ;
+    oa:motivatedBy oa:linking .
+
+<urn:globalise:annotation:unknown:3626-3996> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097842"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:AgentPatient ] ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3626>,
+        <urn:globalise:annotation:unknown:3996> ;
+    oa:motivatedBy oa:linking .
+
+<urn:globalise:annotation:unknown:3640-4003> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097901"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Patient ] ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3640>,
+        <urn:globalise:annotation:unknown:4003> ;
+    oa:motivatedBy oa:linking .
+
+<urn:globalise:annotation:unknown:3654-4009> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097941"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Agent ] ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3654>,
+        <urn:globalise:annotation:unknown:4009> ;
+    oa:motivatedBy oa:linking .
+
+<urn:globalise:annotation:unknown:3682-4015> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.098009"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Patient ] ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3682>,
+        <urn:globalise:annotation:unknown:4015> ;
+    oa:motivatedBy oa:linking .
+
+<urn:globalise:annotation:unknown:3689-4021> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.098036"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Source ] ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3689>,
+        <urn:globalise:annotation:unknown:4021> ;
+    oa:motivatedBy oa:linking .
+
+<urn:globalise:annotation:unknown:3689-4024> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.098046"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Agent ] ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3689>,
+        <urn:globalise:annotation:unknown:4024> ;
+    oa:motivatedBy oa:linking .
+
+<urn:globalise:annotation:unknown:3696-4031> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.098074"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Agent ] ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3696>,
+        <urn:globalise:annotation:unknown:4031> ;
+    oa:motivatedBy oa:linking .
+
+<urn:globalise:annotation:unknown:45440710-b3de-46d0-b644-3caf371ed2d6> a oa:Annotation ;
+    oa:hasBody <urn:globalise:event:unknown:verhuijsen:3689> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3689> .
+
+<urn:globalise:annotation:unknown:49296beb-a32a-4c1a-9cff-82a3b4a6bfee> a oa:Annotation ;
+    oa:hasBody <urn:globalise:entity:unknown:1313-1320:bengale> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3859> .
+
+<urn:globalise:annotation:unknown:57aaaba0-337d-4899-91f4-2a3addbb5b9a> a oa:Annotation ;
+    oa:hasBody <urn:globalise:entity:unknown:698-704:ganges> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3763> .
+
+<urn:globalise:annotation:unknown:58f42bdd-d02a-43db-aec6-c6ea079e5704> a oa:Annotation ;
+    oa:hasBody <urn:globalise:entity:unknown:1140-1147:conincx> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3835> .
+
+<urn:globalise:annotation:unknown:59619b41-f525-4e10-a56b-f56fa07ad5fe> a oa:Annotation ;
+    oa:hasBody <urn:globalise:event:unknown:vervoeren:3647> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3647> .
+
+<urn:globalise:annotation:unknown:5b857806-74fe-4d09-b912-1a6f2b93cd37> a oa:Annotation ;
+    oa:hasBody <urn:globalise:entity:unknown:846-852:brieff> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3799> .
+
+<urn:globalise:annotation:unknown:6382253c-d552-4b1d-9ddc-ee9f9ac0e2bc> a oa:Annotation ;
+    oa:hasBody <urn:globalise:entity:unknown:350-357:hisselt> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3739> .
+
+<urn:globalise:annotation:unknown:647c7488-c354-47b8-b401-1e8b6b0ebbf8> a oa:Annotation ;
+    oa:hasBody <urn:globalise:event:unknown:ter_ooren_quam:3661> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3661> .
+
+<urn:globalise:annotation:unknown:6ad0ff22-a160-4215-af67-e71effa510eb> a oa:Annotation ;
+    oa:hasBody <urn:globalise:entity:unknown:5-12:bengale> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3703> .
+
+<urn:globalise:annotation:unknown:6ad78742-4e3e-4d26-8762-ebf1f2fc6b92> a oa:Annotation ;
+    oa:hasBody <urn:globalise:entity:unknown:1272-1280:e_comp_s> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3853> .
+
+<urn:globalise:annotation:unknown:6f67fcf5-9812-43fc-aed9-d73bd18d8f57> a oa:Annotation ;
+    oa:hasBody <urn:globalise:entity:unknown:1353-1364:zijn_maij_t> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3865> .
+
+<urn:globalise:annotation:unknown:73b0bee8-bec8-4c0a-a6ca-24c1a97a80ae> a oa:Annotation ;
+    oa:hasBody <urn:globalise:event:unknown:advanceeren:3612> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3612> .
+
+<urn:globalise:annotation:unknown:7a4e122c-2cad-4e7a-b596-e06ea3ec41e0> a oa:Annotation ;
+    oa:hasBody <urn:globalise:event:unknown:ordre:3633> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3633> .
+
+<urn:globalise:annotation:unknown:7c0c8eb5-20b2-4ef7-9724-f8704433f831> a oa:Annotation ;
+    oa:hasBody <urn:globalise:entity:unknown:824-837:opperhooffden> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3793> .
+
+<urn:globalise:annotation:unknown:842488db-a637-4871-80a5-3bae1ba142dc> a oa:Annotation ;
+    oa:hasBody <urn:globalise:entity:unknown:750-756:fluijt> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3769> .
+
+<urn:globalise:annotation:unknown:84d0dac7-9960-4530-a4bf-72cbe8737b80> a oa:Annotation ;
+    oa:hasBody <urn:globalise:entity:unknown:1171-1183:sijne_maij_t> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3847> .
+
+<urn:globalise:annotation:unknown:8a672178-94fb-48b8-b4f8-dc8f00d403e8> a oa:Annotation ;
+    oa:hasBody <urn:globalise:entity:unknown:989-995:slaven> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3823> .
+
+<urn:globalise:annotation:unknown:8a8ac0e0-c828-4b2d-8c36-e01f4047bf0e> a oa:Annotation ;
+    oa:hasBody <urn:globalise:entity:unknown:857-865:15_court> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3805> .
+
+<urn:globalise:annotation:unknown:8b94b624-c182-4ecb-b712-4e23cd0eb913> a oa:Annotation ;
+    oa:hasBody <urn:globalise:entity:unknown:165-173:requeste> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3727> .
+
+<urn:globalise:annotation:unknown:8c5e4e60-896c-436a-9f60-95adda159773> a oa:Annotation ;
+    oa:hasBody <urn:globalise:entity:unknown:234-246:ondercoopman> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3733> .
+
+<urn:globalise:annotation:unknown:97ea214e-74fb-4584-8c77-0de67240a0e1> a oa:Annotation ;
+    oa:hasBody <urn:globalise:event:unknown:aff_te_breecken:3682> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3682> .
+
+<urn:globalise:annotation:unknown:9edd77ef-23b4-4e64-9a24-8082943fa0af> a oa:Annotation ;
+    oa:hasBody <urn:globalise:event:unknown:requeste:3577> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3577> .
+
+<urn:globalise:annotation:unknown:a026c639-bef2-4e89-bc6c-3b1931d481cf> a oa:Annotation ;
+    oa:hasBody <urn:globalise:event:unknown:passeeren:3640> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3640> .
+
+<urn:globalise:annotation:unknown:a2cf8cfa-f461-4ed3-8b1b-b6a8b9419cf2> a oa:Annotation ;
+    oa:hasBody <urn:globalise:entity:unknown:791-796:deses> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3781> .
+
+<urn:globalise:annotation:unknown:a34e0b94-f1d4-465c-a7d1-12697399bb66> a oa:Annotation ;
+    oa:hasBody <urn:globalise:entity:unknown:1365-1376:30_40o_lb> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3871> .
+
+<urn:globalise:annotation:unknown:aafff48e-fbdb-4737-8477-3c11fe5518e7> a oa:Annotation ;
+    oa:hasBody <urn:globalise:entity:unknown:71-79:verbandt> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3715> .
+
+<urn:globalise:annotation:unknown:b3830ff7-5515-4e76-aacd-7da675aa05e1> a oa:Annotation ;
+    oa:hasBody <urn:globalise:entity:unknown:1148-1153:ordre> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3841> .
+
+<urn:globalise:annotation:unknown:bd28deb2-97e5-4d2b-80d0-be70f9422fea> a oa:Annotation ;
+    oa:hasBody <urn:globalise:event:unknown:gegeven:3598> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3598> .
+
+<urn:globalise:annotation:unknown:bdde88fd-0be7-4b5d-ae59-102fc0815c97> a oa:Annotation ;
+    oa:hasBody <urn:globalise:entity:unknown:1385-1391:ecompe> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3877> .
+
+<urn:globalise:annotation:unknown:c13b5fa5-50df-4869-8cc4-9220cd52a1ea> a oa:Annotation ;
+    oa:hasBody <urn:globalise:entity:unknown:816-823:deccase> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3787> .
+
+<urn:globalise:annotation:unknown:c2f795da-6c29-48b2-8961-29f2ac44c02e> a oa:Annotation ;
+    oa:hasBody <urn:globalise:entity:unknown:95-117:den_24_en_meij_ao_1677> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3721> .
+
+<urn:globalise:annotation:unknown:c479bcf0-8ed9-4848-9dce-61a1d1c6e1c0> a oa:Annotation ;
+    oa:hasBody <urn:globalise:entity:unknown:982-988:moorse> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3817> .
+
+<urn:globalise:annotation:unknown:c5ed749b-62e8-48ce-9261-a14ee39bf0c8> a oa:Annotation ;
+    oa:hasBody <urn:globalise:event:unknown:geven:3591> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3591> .
+
+<urn:globalise:annotation:unknown:c86a03ae-1340-4497-8144-2ae92d84cc7e> a oa:Annotation ;
+    oa:hasBody <urn:globalise:event:unknown:ordonneeren:3675> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3675> .
+
+<urn:globalise:annotation:unknown:d76f9808-d7a4-4473-8cef-85e8f6e80294> a oa:Annotation ;
+    oa:hasBody <urn:globalise:entity:unknown:18-36:20_februarij_1678> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3709> .
+
+<urn:globalise:annotation:unknown:e353c008-f398-4349-962d-219ddd0994d1> a oa:Annotation ;
+    oa:hasBody <urn:globalise:event:unknown:advijseeren:3626> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3626> .
+
+<urn:globalise:annotation:unknown:e4564758-5ce0-4a9b-88fc-2eb88a6395fa> a oa:Annotation ;
+    oa:hasBody <urn:globalise:entity:unknown:757-769:de_berckmeer> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3775> .
+
+<urn:globalise:annotation:unknown:e99ce8eb-7ac4-416e-bc85-bb630ff6049e> a oa:Annotation ;
+    oa:hasBody <urn:globalise:entity:unknown:929-944:verbant_schrift> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3811> .
+
+<urn:globalise:annotation:unknown:ed0e0dc2-f412-4ed0-be2e-7ab9520141c3> a oa:Annotation ;
+    oa:hasBody <urn:globalise:event:unknown:expireeren:3570> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3570> .
+
+<urn:globalise:annotation:unknown:f0bf30d2-e442-4073-bb76-1df488e24baa> a oa:Annotation ;
+    oa:hasBody <urn:globalise:event:unknown:komen_te_arriveeren:3619> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3619> .
+
+<urn:globalise:annotation:unknown:f181f65c-64c8-459c-ac7f-2182453a3857> a oa:Annotation ;
+    oa:hasBody <urn:globalise:event:unknown:believende:3605> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3605> .
+
+<urn:globalise:annotation:unknown:f9ff9c18-4246-441f-a63c-c1c50e80b2df> a oa:Annotation ;
+    oa:hasBody <urn:globalise:event:unknown:bevrijt_mogen_blijven:3654> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3654> .
+
+<urn:globalise:annotation:unknown:fdc22f16-269c-44a1-9b4a-aa0c424a7b18> a oa:Annotation ;
+    oa:hasBody <urn:globalise:entity:unknown:396-403:secrt_s> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3751> .
+
+<urn:globalise:annotation:unknown:fe793dfd-95ba-4f7c-ac98-da19ec731afd> a oa:Annotation ;
+    oa:hasBody <urn:globalise:event:unknown:gestoort_gemoet:3668> ;
+    oa:hasTarget <urn:globalise:annotation:unknown:3668> .
+
+<https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/CMTY_QUANT> rdfs:label "Quantity" .
+
+<https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/ETH_REL> rdfs:label "Ethno-religious appelation or attribute, not derived from location name" .
+
+<https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/LOC_ADJ> rdfs:label "Derived (adjectival) form of location name" .
+
+<https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/SHIP> rdfs:label "Ship name" .
+
+<https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/SHIP_TYPE> rdfs:label "Ship type" .
+
+<https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/STATUS> rdfs:label "(Civic) status" .
+
+<urn:globalise:annotation:unknown:3951> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097592"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:AgentPatient ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "62"^^xsd:nonNegativeInteger ;
+                    oa:start "58"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "sijn" ;
+                    oa:prefix "bevestight en alsoo " ;
+                    oa:suffix " Iongste verbandt" ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3957> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097658"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Patient ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "324"^^xsd:nonNegativeInteger ;
+                    oa:start "311"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "getuijgenisse" ;
+                    oa:prefix "versoeckende, en waernevens oocq " ;
+                    oa:suffix " moeten geven, dat" ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3963> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097689"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Agent ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextQuoteSelector ;
+                    oa:exact "Hisselt" ;
+                    oa:prefix "moeten geven, dat voorn: " ;
+                    oa:suffix " insijne bedieninge" ],
+                [ a oa:TextPositionSelector ;
+                    oa:end "357"^^xsd:nonNegativeInteger ;
+                    oa:start "350"^^xsd:nonNegativeInteger ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3966> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097700"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Benefactive ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextQuoteSelector ;
+                    oa:exact "ons" ;
+                    oa:prefix "EerstClercq en secrt=s " ;
+                    oa:suffix " volcomen" ],
+                [ a oa:TextPositionSelector ;
+                    oa:end "407"^^xsd:nonNegativeInteger ;
+                    oa:start "404"^^xsd:nonNegativeInteger ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3969> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097711"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Patient ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextQuoteSelector ;
+                    oa:exact "volcomen Contentement" ;
+                    oa:prefix "EerstClercq en secrt=s ons " ;
+                    oa:suffix " heeft gegeven, en" ],
+                [ a oa:TextPositionSelector ;
+                    oa:end "429"^^xsd:nonNegativeInteger ;
+                    oa:start "408"^^xsd:nonNegativeInteger ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3977> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097759"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Patient ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextQuoteSelector ;
+                    oa:exact "hem" ;
+                    oa:prefix "toe uEd=le hoog agtb: " ;
+                    oa:suffix " believende te" ],
+                [ a oa:TextPositionSelector ;
+                    oa:end "551"^^xsd:nonNegativeInteger ;
+                    oa:start "548"^^xsd:nonNegativeInteger ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3983> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097787"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Target ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "704"^^xsd:nonNegativeInteger ;
+                    oa:start "675"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "beneden op de Rivierde ganges" ;
+                    oa:prefix "15:e Courant is oocq " ;
+                    oa:suffix " godtsij loff" ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3986> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097798"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Agent ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextQuoteSelector ;
+                    oa:exact "de fluijt de berckmeer" ;
+                    oa:prefix "komen te arriveeren " ;
+                    oa:suffix ", nog voor't" ],
+                [ a oa:TextPositionSelector ;
+                    oa:end "769"^^xsd:nonNegativeInteger ;
+                    oa:start "747"^^xsd:nonNegativeInteger ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3993> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097828"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:AgentPatient ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextQuoteSelector ;
+                    oa:exact "de deccase opperhooffden" ;
+                    oa:prefix "deses advijseeren ons " ;
+                    oa:suffix " bij een brieff van" ],
+                [ a oa:TextPositionSelector ;
+                    oa:end "837"^^xsd:nonNegativeInteger ;
+                    oa:start "813"^^xsd:nonNegativeInteger ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3996> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097839"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:AgentPatient ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "812"^^xsd:nonNegativeInteger ;
+                    oa:start "809"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "ons" ;
+                    oa:prefix "sluijten deses advijseeren " ;
+                    oa:suffix " de deccase" ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:4003> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097897"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Patient ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "944"^^xsd:nonNegativeInteger ;
+                    oa:start "929"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "verbant schrift" ;
+                    oa:prefix "het passeeren van een " ;
+                    oa:suffix " aengaende het" ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:4009> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097938"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Agent ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "1000"^^xsd:nonNegativeInteger ;
+                    oa:start "997"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "wij" ;
+                    oa:prefix "vervoeren van moorse slaven, " ;
+                    oa:suffix " bevrijt mogen" ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:4015> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.098005"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Patient ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextQuoteSelector ;
+                    oa:exact "'s E Comp=s Logies" ;
+                    oa:prefix "ordonneeren, soude, " ;
+                    oa:suffix " aff te breecken," ],
+                [ a oa:TextPositionSelector ;
+                    oa:end "1287"^^xsd:nonNegativeInteger ;
+                    oa:start "1269"^^xsd:nonNegativeInteger ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:4021> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.098032"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Source ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "1320"^^xsd:nonNegativeInteger ;
+                    oa:start "1313"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "Bengale" ;
+                    oa:prefix "te breecken, en uijt " ;
+                    oa:suffix " te doen —" ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:4024> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.098042"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Agent ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextQuoteSelector ;
+                    oa:exact "E Comp=s" ;
+                    oa:prefix "ordonneeren, soude, 's " ;
+                    oa:suffix " Logies aff te" ],
+                [ a oa:TextPositionSelector ;
+                    oa:end "1280"^^xsd:nonNegativeInteger ;
+                    oa:start "1272"^^xsd:nonNegativeInteger ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:4031> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.098070"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Agent ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "1376"^^xsd:nonNegativeInteger ;
+                    oa:start "1365"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "30 â 40O lb" ;
+                    oa:prefix "doordient zijn maij=t " ;
+                    oa:suffix " a die d ECompe" ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:entity:unknown:1031-1055:princenduanhagie_mannerh> a <urn:globalise:entityType:Person> ;
+    rdfs:label "princenduanhagie mannerh" ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3829> .
+
+<urn:globalise:entity:unknown:1140-1147:conincx> a <urn:globalise:entityType:Profession> ;
+    rdfs:label "Conincx" ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3835> .
+
+<urn:globalise:entity:unknown:1148-1153:ordre> a <urn:globalise:entityType:Document> ;
+    rdfs:label "ordre" ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3841> .
+
+<urn:globalise:entity:unknown:1171-1183:sijne_maij_t> a <urn:globalise:entityType:PersonAttribute> ;
+    rdfs:label "sijne maij:t" ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3847> .
+
+<urn:globalise:entity:unknown:1272-1280:e_comp_s> a <urn:globalise:entityType:Organisation> ;
+    rdfs:label "E Comp=s" ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3853> .
+
+<urn:globalise:entity:unknown:1313-1320:bengale> a <urn:globalise:entityType:Location> ;
+    rdfs:label "Bengale" ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3859> .
+
+<urn:globalise:entity:unknown:1353-1364:zijn_maij_t> a <urn:globalise:entityType:PersonAttribute> ;
+    rdfs:label "zijn maij=t" ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3865> .
+
+<urn:globalise:entity:unknown:1365-1376:30_40o_lb> a <urn:globalise:entityType:CommodityQuantity> ;
+    rdfs:label "30 â 40O lb" ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3871> .
+
+<urn:globalise:entity:unknown:1385-1391:ecompe> a <urn:globalise:entityType:Organisation> ;
+    rdfs:label "ECompe" ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3877> .
+
+<urn:globalise:entity:unknown:165-173:requeste> a <urn:globalise:entityType:Document> ;
+    rdfs:label "requeste" ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3727> .
+
+<urn:globalise:entity:unknown:18-36:20_februarij_1678> a <urn:globalise:entityType:Date> ;
+    rdfs:label "20. Februarij 1678" ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3709> .
+
+<urn:globalise:entity:unknown:234-246:ondercoopman> a <urn:globalise:entityType:Profession> ;
+    rdfs:label "ondercoopman" ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3733> .
+
+<urn:globalise:entity:unknown:350-357:hisselt> a <urn:globalise:entityType:Person> ;
+    rdfs:label "Hisselt" ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3739> .
+
+<urn:globalise:entity:unknown:381-392:eerstclercq> a <urn:globalise:entityType:Profession> ;
+    rdfs:label "EerstClercq" ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3745> .
+
+<urn:globalise:entity:unknown:396-403:secrt_s> a <urn:globalise:entityType:Profession> ;
+    rdfs:label "secrt=s" ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3751> .
+
+<urn:globalise:entity:unknown:5-12:bengale> a <urn:globalise:entityType:Location> ;
+    rdfs:label "Bengale" ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3703> .
+
+<urn:globalise:entity:unknown:650-666:den_15_e_courant> a <urn:globalise:entityType:Date> ;
+    rdfs:label "Den 15:e Courant" ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3757> .
+
+<urn:globalise:entity:unknown:698-704:ganges> a <urn:globalise:entityType:Location> ;
+    rdfs:label "ganges" ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3763> .
+
+<urn:globalise:entity:unknown:71-79:verbandt> a <urn:globalise:entityType:Document> ;
+    rdfs:label "verbandt" ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3715> .
+
+<urn:globalise:entity:unknown:750-756:fluijt> a <urn:globalise:entityType:Ship> ;
+    rdfs:label "fluijt" ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3769> .
+
+<urn:globalise:entity:unknown:757-769:de_berckmeer> a <urn:globalise:entityType:Ship> ;
+    rdfs:label "de berckmeer" ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3775> .
+
+<urn:globalise:entity:unknown:791-796:deses> a <urn:globalise:entityType:Document> ;
+    rdfs:label "deses" ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3781> .
+
+<urn:globalise:entity:unknown:816-823:deccase> a <urn:globalise:entityType:Location> ;
+    rdfs:label "deccase" ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3787> .
+
+<urn:globalise:entity:unknown:824-837:opperhooffden> a <urn:globalise:entityType:Profession> ;
+    rdfs:label "opperhooffden" ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3793> .
+
+<urn:globalise:entity:unknown:846-852:brieff> a <urn:globalise:entityType:Document> ;
+    rdfs:label "brieff" ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3799> .
+
+<urn:globalise:entity:unknown:857-865:15_court> a <urn:globalise:entityType:Date> ;
+    rdfs:label "15 Court" ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3805> .
+
+<urn:globalise:entity:unknown:929-944:verbant_schrift> a <urn:globalise:entityType:Document> ;
+    rdfs:label "verbant schrift" ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3811> .
+
+<urn:globalise:entity:unknown:95-117:den_24_en_meij_ao_1677> a <urn:globalise:entityType:Date> ;
+    rdfs:label "den 24:en meij ao 1677" ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3721> .
+
+<urn:globalise:entity:unknown:982-988:moorse> a <urn:globalise:entityType:EthnoReligiousAppelation> ;
+    rdfs:label "moorse" ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3817> .
+
+<urn:globalise:entity:unknown:989-995:slaven> a <urn:globalise:entityType:CivicStatus> ;
+    rdfs:label "slaven" ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3823> .
+
+<urn:globalise:event:unknown:advanceeren:3612> a sem:Event,
+        glob:SocialStatusChange ;
+    sem:hasActor [ a sem:Role ;
+            sem:roleType glob:Patient ;
+            rdf:value <urn:globalise:event_argument:unknown:548-551:hem> ] ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3612> .
+
+<urn:globalise:event:unknown:advijseeren:3626> a sem:Event,
+        glob:SocialInteraction ;
+    sem:hasActor [ a sem:Role ;
+            sem:roleType glob:AgentPatient ;
+            rdf:value <urn:globalise:event_argument:unknown:813-837:de_deccase_opperhooffden> ],
+        [ a sem:Role ;
+            sem:roleType glob:AgentPatient ;
+            rdf:value <urn:globalise:event_argument:unknown:809-812:ons> ] ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3626> .
+
+<urn:globalise:event:unknown:aenquam:3696> a sem:Event,
+        glob:Arriving ;
+    sem:hasActor [ a sem:Role ;
+            sem:roleType glob:Agent ;
+            rdf:value <urn:globalise:event_argument:unknown:1365-1376:30_40o_lb> ] ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3696> .
+
+<urn:globalise:event:unknown:aff_te_breecken:3682> a sem:Event,
+        glob:Destroying ;
+    sem:hasActor [ a sem:Role ;
+            sem:roleType glob:Patient ;
+            rdf:value <urn:globalise:event_argument:unknown:1269-1287:s_e_comp_s_logies> ] ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3682> .
+
+<urn:globalise:event:unknown:believende:3605> a sem:Event,
+        glob:Request ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3605> .
+
+<urn:globalise:event:unknown:bevrijt_mogen_blijven:3654> a sem:Event,
+        glob:Request ;
+    sem:hasActor [ a sem:Role ;
+            sem:roleType glob:Agent ;
+            rdf:value <urn:globalise:event_argument:unknown:997-1000:wij> ] ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3654> .
+
+<urn:globalise:event:unknown:expireeren:3570> a sem:Event,
+        glob:EndingContractualAgreement ;
+    sem:hasActor [ a sem:Role ;
+            sem:roleType glob:AgentPatient ;
+            rdf:value <urn:globalise:event_argument:unknown:58-62:sijn> ] ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3570> .
+
+<urn:globalise:event:unknown:gegeven:3598> a sem:Event,
+        glob:Giving ;
+    sem:hasActor [ a sem:Role ;
+            sem:roleType glob:Benefactive ;
+            rdf:value <urn:globalise:event_argument:unknown:404-407:ons> ],
+        [ a sem:Role ;
+            sem:roleType glob:Agent ;
+            rdf:value <urn:globalise:event_argument:unknown:350-357:hisselt> ],
+        [ a sem:Role ;
+            sem:roleType glob:Patient ;
+            rdf:value <urn:globalise:event_argument:unknown:408-429:volcomen_contentement> ] ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3598> .
+
+<urn:globalise:event:unknown:gestoort_gemoet:3668> a sem:Event,
+        glob:HavingInternalStateMin ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3668> .
+
+<urn:globalise:event:unknown:geven:3591> a sem:Event,
+        glob:Giving ;
+    sem:hasActor [ a sem:Role ;
+            sem:roleType glob:Patient ;
+            rdf:value <urn:globalise:event_argument:unknown:311-324:getuijgenisse> ] ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3591> .
+
+<urn:globalise:event:unknown:komen_te_arriveeren:3619> a sem:Event,
+        glob:Arriving ;
+    sem:hasActor [ a sem:Role ;
+            sem:roleType glob:Agent ;
+            rdf:value <urn:globalise:event_argument:unknown:747-769:de_fluijt_de_berckmeer> ] ;
+    sem:hasPlace [ a sem:Role ;
+            sem:roleType glob:Target ;
+            rdf:value <urn:globalise:event_argument:unknown:675-704:beneden_op_de_rivierde_ganges> ] ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3619> .
+
+<urn:globalise:event:unknown:ordonneeren:3675> a sem:Event,
+        glob:ForceToAct ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3675> .
+
+<urn:globalise:event:unknown:ordre:3633> a sem:Event,
+        glob:SocialInteraction ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3633> .
+
+<urn:globalise:event:unknown:passeeren:3640> a sem:Event,
+        glob:Transportation ;
+    sem:hasActor [ a sem:Role ;
+            sem:roleType glob:Patient ;
+            rdf:value <urn:globalise:event_argument:unknown:929-944:verbant_schrift> ] ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3640> .
+
+<urn:globalise:event:unknown:requeste:3577> a sem:Event,
+        glob:Request ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3577> .
+
+<urn:globalise:event:unknown:ter_ooren_quam:3661> a sem:Event,
+        glob:SocialInteraction ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3661> .
+
+<urn:globalise:event:unknown:verhuijsen:3689> a sem:Event,
+        glob:Leaving ;
+    sem:hasActor [ a sem:Role ;
+            sem:roleType glob:Agent ;
+            rdf:value <urn:globalise:event_argument:unknown:1272-1280:e_comp_s> ] ;
+    sem:hasPlace [ a sem:Role ;
+            sem:roleType glob:Source ;
+            rdf:value <urn:globalise:event_argument:unknown:1313-1320:bengale> ] ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3689> .
+
+<urn:globalise:event:unknown:versoeckende:3584> a sem:Event,
+        glob:Request ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3584> .
+
+<urn:globalise:event:unknown:vervoeren:3647> a sem:Event,
+        glob:Transportation ;
+    prov:wasDerivedFrom <urn:globalise:annotation:unknown:3647> .
+
+<urn:globalise:event_argument:unknown:1269-1287:s_e_comp_s_logies> rdfs:label "'s E Comp=s Logies" .
+
+<urn:globalise:event_argument:unknown:1272-1280:e_comp_s> rdfs:label "E Comp=s" .
+
+<urn:globalise:event_argument:unknown:1313-1320:bengale> rdfs:label "Bengale" .
+
+<urn:globalise:event_argument:unknown:1365-1376:30_40o_lb> rdfs:label "30 â 40O lb" .
+
+<urn:globalise:event_argument:unknown:311-324:getuijgenisse> rdfs:label "getuijgenisse" .
+
+<urn:globalise:event_argument:unknown:350-357:hisselt> rdfs:label "Hisselt" .
+
+<urn:globalise:event_argument:unknown:404-407:ons> rdfs:label "ons" .
+
+<urn:globalise:event_argument:unknown:408-429:volcomen_contentement> rdfs:label "volcomen Contentement" .
+
+<urn:globalise:event_argument:unknown:548-551:hem> rdfs:label "hem" .
+
+<urn:globalise:event_argument:unknown:58-62:sijn> rdfs:label "sijn" .
+
+<urn:globalise:event_argument:unknown:675-704:beneden_op_de_rivierde_ganges> rdfs:label "beneden op de Rivierde ganges" .
+
+<urn:globalise:event_argument:unknown:747-769:de_fluijt_de_berckmeer> rdfs:label "de fluijt de berckmeer" .
+
+<urn:globalise:event_argument:unknown:809-812:ons> rdfs:label "ons" .
+
+<urn:globalise:event_argument:unknown:813-837:de_deccase_opperhooffden> rdfs:label "de deccase opperhooffden" .
+
+<urn:globalise:event_argument:unknown:929-944:verbant_schrift> rdfs:label "verbant schrift" .
+
+<urn:globalise:event_argument:unknown:997-1000:wij> rdfs:label "wij" .
+
+<https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/ORG> rdfs:label "Organisation name" .
+
+<https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/PER_ATTR> rdfs:label "Other persons attributes (than PER or STATUS)" .
+
+<https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/PER_NAME> rdfs:label "Name of Person" .
+
+<urn:globalise:annotation:unknown:3577> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097622"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Request ],
+        [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:isOfType ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "173"^^xsd:nonNegativeInteger ;
+                    oa:start "165"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "requeste" ;
+                    oa:prefix "soo gaat bij desen sij " ;
+                    oa:suffix " tot uEd=le Hooge" ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3584> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097636"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:isOfType ],
+        [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Request ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextQuoteSelector ;
+                    oa:exact "versoeckende" ;
+                    oa:prefix "gagie daer toestaende is " ;
+                    oa:suffix ", en waernevens" ],
+                [ a oa:TextPositionSelector ;
+                    oa:end "290"^^xsd:nonNegativeInteger ;
+                    oa:start "278"^^xsd:nonNegativeInteger ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3605> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097737"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Request ],
+        [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:evokes ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "562"^^xsd:nonNegativeInteger ;
+                    oa:start "552"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "believende" ;
+                    oa:prefix "uEd=le hoog agtb: hem " ;
+                    oa:suffix " te advanceeren," ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3633> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097876"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:evokes ],
+        [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:SocialInteraction ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "899"^^xsd:nonNegativeInteger ;
+                    oa:start "894"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "ordre" ;
+                    oa:prefix "sij agter volgens onse " ;
+                    oa:suffix " om van het" ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3647> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097915"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:isOfType ],
+        [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Transportation ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "977"^^xsd:nonNegativeInteger ;
+                    oa:start "968"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "vervoeren" ;
+                    oa:prefix "aengaende het Cooperen " ;
+                    oa:suffix " van moorse slaven," ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3661> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097956"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:evokes ],
+        [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:SocialInteraction ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "1215"^^xsd:nonNegativeInteger ;
+                    oa:start "1201"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "ter ooren quam" ;
+                    oa:prefix "maij:t onse onwilligh=t " ;
+                    oa:suffix ", hij met een" ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3668> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097971"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:evokes ],
+        [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:HavingInternalStateMin ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "1244"^^xsd:nonNegativeInteger ;
+                    oa:start "1229"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "gestoort gemoet" ;
+                    oa:prefix "ooren quam, hij met een " ;
+                    oa:suffix " wel ordonneeren," ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3675> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097985"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:isOfType ],
+        [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:ForceToAct ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "1260"^^xsd:nonNegativeInteger ;
+                    oa:start "1249"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "ordonneeren" ;
+                    oa:prefix "gestoort gemoet wel " ;
+                    oa:suffix ", soude, 's E" ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3703> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.096886"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ a oa:SpecificResource ;
+            oa:hasPurpose oa:classifying ;
+            oa:hasSource <https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/LOC_NAME> ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "12"^^xsd:nonNegativeInteger ;
+                    oa:start "5"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "Bengale" ;
+                    oa:suffix " dato 20. Februarij" ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3709> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097076"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ a oa:SpecificResource ;
+            oa:hasPurpose oa:classifying ;
+            oa:hasSource <https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/DATE> ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextQuoteSelector ;
+                    oa:exact "20. Februarij 1678" ;
+                    oa:suffix "  bevestight en" ],
+                [ a oa:TextPositionSelector ;
+                    oa:end "36"^^xsd:nonNegativeInteger ;
+                    oa:start "18"^^xsd:nonNegativeInteger ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3715> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097102"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ a oa:SpecificResource ;
+            oa:hasPurpose oa:classifying ;
+            oa:hasSource <https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/DOC> ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "79"^^xsd:nonNegativeInteger ;
+                    oa:start "71"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "verbandt" ;
+                    oa:prefix "alsoo sijn Iongste " ;
+                    oa:suffix " van drie Iaren den" ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3721> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097118"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ a oa:SpecificResource ;
+            oa:hasPurpose oa:classifying ;
+            oa:hasSource <https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/DATE> ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextQuoteSelector ;
+                    oa:exact "den 24:en meij ao 1677" ;
+                    oa:prefix "verbandt van drie Iaren " ;
+                    oa:suffix " is komen te" ],
+                [ a oa:TextPositionSelector ;
+                    oa:end "117"^^xsd:nonNegativeInteger ;
+                    oa:start "95"^^xsd:nonNegativeInteger ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3727> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097133"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ a oa:SpecificResource ;
+            oa:hasPurpose oa:classifying ;
+            oa:hasSource <https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/DOC> ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextQuoteSelector ;
+                    oa:exact "requeste" ;
+                    oa:prefix "soo gaat bij desen sij " ;
+                    oa:suffix " tot uEd=le Hooge" ],
+                [ a oa:TextPositionSelector ;
+                    oa:end "173"^^xsd:nonNegativeInteger ;
+                    oa:start "165"^^xsd:nonNegativeInteger ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3733> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097147"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ a oa:SpecificResource ;
+            oa:hasPurpose oa:classifying ;
+            oa:hasSource <https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/PRF> ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextQuoteSelector ;
+                    oa:exact "ondercoopman" ;
+                    oa:prefix "omde qualiteijt van " ;
+                    oa:suffix ", ende gagie daer" ],
+                [ a oa:TextPositionSelector ;
+                    oa:end "246"^^xsd:nonNegativeInteger ;
+                    oa:start "234"^^xsd:nonNegativeInteger ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3739> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097161"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ a oa:SpecificResource ;
+            oa:hasPurpose oa:classifying ;
+            oa:hasSource <https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/PER_NAME> ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextQuoteSelector ;
+                    oa:exact "Hisselt" ;
+                    oa:prefix "moeten geven, dat voorn: " ;
+                    oa:suffix " insijne bedieninge" ],
+                [ a oa:TextPositionSelector ;
+                    oa:end "357"^^xsd:nonNegativeInteger ;
+                    oa:start "350"^^xsd:nonNegativeInteger ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3745> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097174"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ a oa:SpecificResource ;
+            oa:hasPurpose oa:classifying ;
+            oa:hasSource <https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/PRF> ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextQuoteSelector ;
+                    oa:exact "EerstClercq" ;
+                    oa:prefix "insijne bedieninge als " ;
+                    oa:suffix " en secrt=s ons" ],
+                [ a oa:TextPositionSelector ;
+                    oa:end "392"^^xsd:nonNegativeInteger ;
+                    oa:start "381"^^xsd:nonNegativeInteger ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3751> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097188"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ a oa:SpecificResource ;
+            oa:hasPurpose oa:classifying ;
+            oa:hasSource <https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/PRF> ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "403"^^xsd:nonNegativeInteger ;
+                    oa:start "396"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "secrt=s" ;
+                    oa:prefix "bedieninge als EerstClercq en " ;
+                    oa:suffix " ons volcomen" ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3757> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097202"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ a oa:SpecificResource ;
+            oa:hasPurpose oa:classifying ;
+            oa:hasSource <https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/DATE> ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "666"^^xsd:nonNegativeInteger ;
+                    oa:start "650"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "Den 15:e Courant" ;
+                    oa:prefix "tragten waerdig te maecken " ;
+                    oa:suffix " is oocq beneden op" ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3763> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097216"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ a oa:SpecificResource ;
+            oa:hasPurpose oa:classifying ;
+            oa:hasSource <https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/LOC_NAME> ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextQuoteSelector ;
+                    oa:exact "ganges" ;
+                    oa:prefix "beneden op de Rivierde " ;
+                    oa:suffix " godtsij loff" ],
+                [ a oa:TextPositionSelector ;
+                    oa:end "704"^^xsd:nonNegativeInteger ;
+                    oa:start "698"^^xsd:nonNegativeInteger ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3769> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097229"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ a oa:SpecificResource ;
+            oa:hasPurpose oa:classifying ;
+            oa:hasSource <https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/SHIP_TYPE> ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextQuoteSelector ;
+                    oa:exact "fluijt" ;
+                    oa:prefix "komen te arriveeren de " ;
+                    oa:suffix " de berckmeer, nog" ],
+                [ a oa:TextPositionSelector ;
+                    oa:end "756"^^xsd:nonNegativeInteger ;
+                    oa:start "750"^^xsd:nonNegativeInteger ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3775> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097241"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ a oa:SpecificResource ;
+            oa:hasPurpose oa:classifying ;
+            oa:hasSource <https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/SHIP> ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "769"^^xsd:nonNegativeInteger ;
+                    oa:start "757"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "de berckmeer" ;
+                    oa:prefix "arriveeren de fluijt " ;
+                    oa:suffix ", nog voor't" ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3781> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097256"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ a oa:SpecificResource ;
+            oa:hasPurpose oa:classifying ;
+            oa:hasSource <https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/DOC> ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextQuoteSelector ;
+                    oa:exact "deses" ;
+                    oa:prefix "nog voor't sluijten " ;
+                    oa:suffix " advijseeren ons de" ],
+                [ a oa:TextPositionSelector ;
+                    oa:end "796"^^xsd:nonNegativeInteger ;
+                    oa:start "791"^^xsd:nonNegativeInteger ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3787> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097287"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ a oa:SpecificResource ;
+            oa:hasPurpose oa:classifying ;
+            oa:hasSource <https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/LOC_ADJ> ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "823"^^xsd:nonNegativeInteger ;
+                    oa:start "816"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "deccase" ;
+                    oa:prefix "deses advijseeren ons de " ;
+                    oa:suffix " opperhooffden bij" ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3793> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097333"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ a oa:SpecificResource ;
+            oa:hasPurpose oa:classifying ;
+            oa:hasSource <https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/PRF> ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextQuoteSelector ;
+                    oa:exact "opperhooffden" ;
+                    oa:prefix "advijseeren ons de deccase " ;
+                    oa:suffix " bij een brieff van" ],
+                [ a oa:TextPositionSelector ;
+                    oa:end "837"^^xsd:nonNegativeInteger ;
+                    oa:start "824"^^xsd:nonNegativeInteger ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3799> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097351"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ a oa:SpecificResource ;
+            oa:hasPurpose oa:classifying ;
+            oa:hasSource <https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/DOC> ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "852"^^xsd:nonNegativeInteger ;
+                    oa:start "846"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "brieff" ;
+                    oa:prefix "opperhooffden bij een " ;
+                    oa:suffix " van 15 Court, dat" ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3805> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097365"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ a oa:SpecificResource ;
+            oa:hasPurpose oa:classifying ;
+            oa:hasSource <https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/DATE> ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextQuoteSelector ;
+                    oa:exact "15 Court" ;
+                    oa:prefix "opperhooffden bij een brieff van " ;
+                    oa:suffix ", dat sij agter" ],
+                [ a oa:TextPositionSelector ;
+                    oa:end "865"^^xsd:nonNegativeInteger ;
+                    oa:start "857"^^xsd:nonNegativeInteger ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3811> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097379"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ a oa:SpecificResource ;
+            oa:hasPurpose oa:classifying ;
+            oa:hasSource <https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/DOC> ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "944"^^xsd:nonNegativeInteger ;
+                    oa:start "929"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "verbant schrift" ;
+                    oa:prefix "het passeeren van een " ;
+                    oa:suffix " aengaende het" ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3817> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097393"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ a oa:SpecificResource ;
+            oa:hasPurpose oa:classifying ;
+            oa:hasSource <https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/ETH_REL> ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "988"^^xsd:nonNegativeInteger ;
+                    oa:start "982"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "moorse" ;
+                    oa:prefix "Cooperen vervoeren van " ;
+                    oa:suffix " slaven, wij" ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3823> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097410"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ a oa:SpecificResource ;
+            oa:hasPurpose oa:classifying ;
+            oa:hasSource <https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/STATUS> ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextQuoteSelector ;
+                    oa:exact "slaven" ;
+                    oa:prefix "vervoeren van moorse " ;
+                    oa:suffix ", wij bevrijt mogen" ],
+                [ a oa:TextPositionSelector ;
+                    oa:end "995"^^xsd:nonNegativeInteger ;
+                    oa:start "989"^^xsd:nonNegativeInteger ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3829> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097424"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ a oa:SpecificResource ;
+            oa:hasPurpose oa:classifying ;
+            oa:hasSource <https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/PER_NAME> ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextQuoteSelector ;
+                    oa:exact "princenduanhagie mannerh" ;
+                    oa:prefix "mogen blijven, bij 's " ;
+                    oa:suffix " tselve wel hebben" ],
+                [ a oa:TextPositionSelector ;
+                    oa:end "1055"^^xsd:nonNegativeInteger ;
+                    oa:start "1031"^^xsd:nonNegativeInteger ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3835> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097438"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ a oa:SpecificResource ;
+            oa:hasPurpose oa:classifying ;
+            oa:hasSource <https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/PRF> ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "1147"^^xsd:nonNegativeInteger ;
+                    oa:start "1140"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "Conincx" ;
+                    oa:prefix "antwoort becomen, het 's " ;
+                    oa:suffix " ordre te wesen, en" ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3841> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097451"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ a oa:SpecificResource ;
+            oa:hasPurpose oa:classifying ;
+            oa:hasSource <https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/DOC> ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextQuoteSelector ;
+                    oa:exact "ordre" ;
+                    oa:prefix "becomen, het 's Conincx " ;
+                    oa:suffix " te wesen, en als" ],
+                [ a oa:TextPositionSelector ;
+                    oa:end "1153"^^xsd:nonNegativeInteger ;
+                    oa:start "1148"^^xsd:nonNegativeInteger ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3847> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097463"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ a oa:SpecificResource ;
+            oa:hasPurpose oa:classifying ;
+            oa:hasSource <https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/PER_ATTR> ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextQuoteSelector ;
+                    oa:exact "sijne maij:t" ;
+                    oa:prefix "ordre te wesen, en als " ;
+                    oa:suffix " onse onwilligh=t" ],
+                [ a oa:TextPositionSelector ;
+                    oa:end "1183"^^xsd:nonNegativeInteger ;
+                    oa:start "1171"^^xsd:nonNegativeInteger ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3853> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097478"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ a oa:SpecificResource ;
+            oa:hasPurpose oa:classifying ;
+            oa:hasSource <https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/ORG> ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextQuoteSelector ;
+                    oa:exact "E Comp=s" ;
+                    oa:prefix "ordonneeren, soude, 's " ;
+                    oa:suffix " Logies aff te" ],
+                [ a oa:TextPositionSelector ;
+                    oa:end "1280"^^xsd:nonNegativeInteger ;
+                    oa:start "1272"^^xsd:nonNegativeInteger ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3859> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097492"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ a oa:SpecificResource ;
+            oa:hasPurpose oa:classifying ;
+            oa:hasSource <https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/LOC_NAME> ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextQuoteSelector ;
+                    oa:exact "Bengale" ;
+                    oa:prefix "te breecken, en uijt " ;
+                    oa:suffix " te doen —" ],
+                [ a oa:TextPositionSelector ;
+                    oa:end "1320"^^xsd:nonNegativeInteger ;
+                    oa:start "1313"^^xsd:nonNegativeInteger ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3865> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097505"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ a oa:SpecificResource ;
+            oa:hasPurpose oa:classifying ;
+            oa:hasSource <https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/PER_ATTR> ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextQuoteSelector ;
+                    oa:exact "zijn maij=t" ;
+                    oa:prefix "Verhuijsen, doordient " ;
+                    oa:suffix " 30 â 40O lb a die" ],
+                [ a oa:TextPositionSelector ;
+                    oa:end "1364"^^xsd:nonNegativeInteger ;
+                    oa:start "1353"^^xsd:nonNegativeInteger ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3871> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097520"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ a oa:SpecificResource ;
+            oa:hasPurpose oa:classifying ;
+            oa:hasSource <https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/CMTY_QUANT> ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextQuoteSelector ;
+                    oa:exact "30 â 40O lb" ;
+                    oa:prefix "doordient zijn maij=t " ;
+                    oa:suffix " a die d ECompe" ],
+                [ a oa:TextPositionSelector ;
+                    oa:end "1376"^^xsd:nonNegativeInteger ;
+                    oa:start "1365"^^xsd:nonNegativeInteger ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3877> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097536"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ a oa:SpecificResource ;
+            oa:hasPurpose oa:classifying ;
+            oa:hasSource <https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/ORG> ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextQuoteSelector ;
+                    oa:exact "ECompe" ;
+                    oa:prefix "30 â 40O lb a die d " ;
+                    oa:suffix " Iaer Ex:ca maer" ],
+                [ a oa:TextPositionSelector ;
+                    oa:end "1391"^^xsd:nonNegativeInteger ;
+                    oa:start "1385"^^xsd:nonNegativeInteger ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/LOC_NAME> rdfs:label "Name of Location" .
+
+<urn:globalise:annotation:unknown:3570> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097582"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:isOfType ],
+        [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:EndingContractualAgreement ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextQuoteSelector ;
+                    oa:exact "Expireeren" ;
+                    oa:prefix "ao 1677 is komen te " ;
+                    oa:suffix ", soo gaat bij" ],
+                [ a oa:TextPositionSelector ;
+                    oa:end "140"^^xsd:nonNegativeInteger ;
+                    oa:start "130"^^xsd:nonNegativeInteger ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3591> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097650"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Giving ],
+        [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:isOfType ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "337"^^xsd:nonNegativeInteger ;
+                    oa:start "332"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "geven" ;
+                    oa:prefix "getuijgenisse moeten " ;
+                    oa:suffix ", dat voorn:" ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3612> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097751"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:evokes ],
+        [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:SocialStatusChange ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "577"^^xsd:nonNegativeInteger ;
+                    oa:start "566"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "advanceeren" ;
+                    oa:prefix "agtb: hem believende te " ;
+                    oa:suffix ", sal hij met allen" ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3640> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097890"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Transportation ],
+        [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:evokes ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "920"^^xsd:nonNegativeInteger ;
+                    oa:start "911"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "passeeren" ;
+                    oa:prefix "onse ordre om van het " ;
+                    oa:suffix " van een verbant" ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3654> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097930"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:evokes ],
+        [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Request ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "1022"^^xsd:nonNegativeInteger ;
+                    oa:start "1001"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "bevrijt mogen blijven" ;
+                    oa:prefix "van moorse slaven, wij " ;
+                    oa:suffix ", bij 's" ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3682> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097997"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Destroying ],
+        [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:isOfType ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextQuoteSelector ;
+                    oa:exact "aff te breecken" ;
+                    oa:prefix "'s E Comp=s Logies " ;
+                    oa:suffix ", en uijt Bengale" ],
+                [ a oa:TextPositionSelector ;
+                    oa:end "1303"^^xsd:nonNegativeInteger ;
+                    oa:start "1288"^^xsd:nonNegativeInteger ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3696> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.098062"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Arriving ],
+        [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:isOfType ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "1430"^^xsd:nonNegativeInteger ;
+                    oa:start "1423"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "aenquam" ;
+                    oa:prefix "maer vertolde, niet " ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/DATE> rdfs:label "Date" .
+
+<urn:globalise:annotation:unknown:3619> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097779"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:isOfType ],
+        [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Arriving ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "746"^^xsd:nonNegativeInteger ;
+                    oa:start "727"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "komen te arriveeren" ;
+                    oa:prefix "godtsij loff behouden " ;
+                    oa:suffix " de fluijt de" ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3626> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097820"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:SocialInteraction ],
+        [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:evokes ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "808"^^xsd:nonNegativeInteger ;
+                    oa:start "797"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "advijseeren" ;
+                    oa:prefix "voor't sluijten deses " ;
+                    oa:suffix " ons de deccase" ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<urn:globalise:annotation:unknown:3689> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.098025"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Leaving ],
+        [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:isOfType ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextPositionSelector ;
+                    oa:end "1341"^^xsd:nonNegativeInteger ;
+                    oa:start "1331"^^xsd:nonNegativeInteger ],
+                [ a oa:TextQuoteSelector ;
+                    oa:exact "Verhuijsen" ;
+                    oa:prefix "uijt Bengale te doen — " ;
+                    oa:suffix ", doordient zijn" ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/PRF> rdfs:label "Profession, title" .
+
+<urn:globalise:annotation:unknown:3598> a oa:Annotation ;
+    dct:issued "2024-06-27T11:56:55.097681"^^xsd:dateTime ;
+    as:generator <https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> ;
+    oa:hasBody [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:isOfType ],
+        [ oa:hasPurpose oa:classifying ;
+            oa:hasSource glob:Giving ] ;
+    oa:hasTarget [ a oa:SpecificResource ;
+            oa:hasSelector [ a oa:TextQuoteSelector ;
+                    oa:exact "gegeven" ;
+                    oa:prefix "volcomen Contentement heeft " ;
+                    oa:suffix ", en ooiq sijne" ],
+                [ a oa:TextPositionSelector ;
+                    oa:end "443"^^xsd:nonNegativeInteger ;
+                    oa:start "436"^^xsd:nonNegativeInteger ] ;
+            oa:hasSource <urn:placeholder> ] .
+
+<https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/DOC> rdfs:label "Document" .
+
+<https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py> a as:Application ;
+    foaf:name "scripts/gt-xmi-to-wa.py" .
+
+

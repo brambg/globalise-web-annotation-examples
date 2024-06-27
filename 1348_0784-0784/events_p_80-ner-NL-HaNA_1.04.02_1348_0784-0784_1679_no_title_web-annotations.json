@@ -1,0 +1,4234 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3703",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.096886",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/LOC_NAME",
+          "label": "Name of Location"
+        }
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Bengale",
+            "suffix": " dato 20. Februarij"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 5,
+            "end": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:6ad0ff22-a160-4215-af67-e71effa510eb",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:entity:unknown:5-12:bengale",
+      "type": "urn:globalise:entityType:Location",
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3703",
+      "label": "Bengale"
+    },
+    "target": "urn:globalise:annotation:unknown:3703"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3709",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097076",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/DATE",
+          "label": "Date"
+        }
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "20. Februarij 1678",
+            "suffix": "  bevestight en"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 18,
+            "end": 36
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:d76f9808-d7a4-4473-8cef-85e8f6e80294",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:entity:unknown:18-36:20_februarij_1678",
+      "type": "urn:globalise:entityType:Date",
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3709",
+      "label": "20. Februarij 1678"
+    },
+    "target": "urn:globalise:annotation:unknown:3709"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3715",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097102",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/DOC",
+          "label": "Document"
+        }
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "verbandt",
+            "prefix": "alsoo sijn Iongste ",
+            "suffix": " van drie Iaren den"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 71,
+            "end": 79
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:aafff48e-fbdb-4737-8477-3c11fe5518e7",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:entity:unknown:71-79:verbandt",
+      "type": "urn:globalise:entityType:Document",
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3715",
+      "label": "verbandt"
+    },
+    "target": "urn:globalise:annotation:unknown:3715"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3721",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097118",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/DATE",
+          "label": "Date"
+        }
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "den 24:en meij ao 1677",
+            "prefix": "verbandt van drie Iaren ",
+            "suffix": " is komen te"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 95,
+            "end": 117
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:c2f795da-6c29-48b2-8961-29f2ac44c02e",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:entity:unknown:95-117:den_24_en_meij_ao_1677",
+      "type": "urn:globalise:entityType:Date",
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3721",
+      "label": "den 24:en meij ao 1677"
+    },
+    "target": "urn:globalise:annotation:unknown:3721"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3727",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097133",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/DOC",
+          "label": "Document"
+        }
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "requeste",
+            "prefix": "soo gaat bij desen sij ",
+            "suffix": " tot uEd=le Hooge"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 165,
+            "end": 173
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:8b94b624-c182-4ecb-b712-4e23cd0eb913",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:entity:unknown:165-173:requeste",
+      "type": "urn:globalise:entityType:Document",
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3727",
+      "label": "requeste"
+    },
+    "target": "urn:globalise:annotation:unknown:3727"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3733",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097147",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/PRF",
+          "label": "Profession, title"
+        }
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "ondercoopman",
+            "prefix": "omde qualiteijt van ",
+            "suffix": ", ende gagie daer"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 234,
+            "end": 246
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:8c5e4e60-896c-436a-9f60-95adda159773",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:entity:unknown:234-246:ondercoopman",
+      "type": "urn:globalise:entityType:Profession",
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3733",
+      "label": "ondercoopman"
+    },
+    "target": "urn:globalise:annotation:unknown:3733"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3739",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097161",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/PER_NAME",
+          "label": "Name of Person"
+        }
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Hisselt",
+            "prefix": "moeten geven, dat voorn: ",
+            "suffix": " insijne bedieninge"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 350,
+            "end": 357
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:6382253c-d552-4b1d-9ddc-ee9f9ac0e2bc",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:entity:unknown:350-357:hisselt",
+      "type": "urn:globalise:entityType:Person",
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3739",
+      "label": "Hisselt"
+    },
+    "target": "urn:globalise:annotation:unknown:3739"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3745",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097174",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/PRF",
+          "label": "Profession, title"
+        }
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "EerstClercq",
+            "prefix": "insijne bedieninge als ",
+            "suffix": " en secrt=s ons"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 381,
+            "end": 392
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:02761bcf-ee2c-46c8-b765-606ad49d49c6",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:entity:unknown:381-392:eerstclercq",
+      "type": "urn:globalise:entityType:Profession",
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3745",
+      "label": "EerstClercq"
+    },
+    "target": "urn:globalise:annotation:unknown:3745"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3751",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097188",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/PRF",
+          "label": "Profession, title"
+        }
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "secrt=s",
+            "prefix": "bedieninge als EerstClercq en ",
+            "suffix": " ons volcomen"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 396,
+            "end": 403
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:fdc22f16-269c-44a1-9b4a-aa0c424a7b18",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:entity:unknown:396-403:secrt_s",
+      "type": "urn:globalise:entityType:Profession",
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3751",
+      "label": "secrt=s"
+    },
+    "target": "urn:globalise:annotation:unknown:3751"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3757",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097202",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/DATE",
+          "label": "Date"
+        }
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Den 15:e Courant",
+            "prefix": "tragten waerdig te maecken ",
+            "suffix": " is oocq beneden op"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 650,
+            "end": 666
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:1a4b9b4f-cae9-49e6-89af-b3e8f0ca401d",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:entity:unknown:650-666:den_15_e_courant",
+      "type": "urn:globalise:entityType:Date",
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3757",
+      "label": "Den 15:e Courant"
+    },
+    "target": "urn:globalise:annotation:unknown:3757"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3763",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097216",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/LOC_NAME",
+          "label": "Name of Location"
+        }
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "ganges",
+            "prefix": "beneden op de Rivierde ",
+            "suffix": " godtsij loff"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 698,
+            "end": 704
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:57aaaba0-337d-4899-91f4-2a3addbb5b9a",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:entity:unknown:698-704:ganges",
+      "type": "urn:globalise:entityType:Location",
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3763",
+      "label": "ganges"
+    },
+    "target": "urn:globalise:annotation:unknown:3763"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3769",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097229",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/SHIP_TYPE",
+          "label": "Ship type"
+        }
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "fluijt",
+            "prefix": "komen te arriveeren de ",
+            "suffix": " de berckmeer, nog"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 750,
+            "end": 756
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:842488db-a637-4871-80a5-3bae1ba142dc",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:entity:unknown:750-756:fluijt",
+      "type": "urn:globalise:entityType:Ship",
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3769",
+      "label": "fluijt"
+    },
+    "target": "urn:globalise:annotation:unknown:3769"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3775",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097241",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/SHIP",
+          "label": "Ship name"
+        }
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "de berckmeer",
+            "prefix": "arriveeren de fluijt ",
+            "suffix": ", nog voor't"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 757,
+            "end": 769
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:e4564758-5ce0-4a9b-88fc-2eb88a6395fa",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:entity:unknown:757-769:de_berckmeer",
+      "type": "urn:globalise:entityType:Ship",
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3775",
+      "label": "de berckmeer"
+    },
+    "target": "urn:globalise:annotation:unknown:3775"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3781",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097256",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/DOC",
+          "label": "Document"
+        }
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "deses",
+            "prefix": "nog voor't sluijten ",
+            "suffix": " advijseeren ons de"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 791,
+            "end": 796
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:a2cf8cfa-f461-4ed3-8b1b-b6a8b9419cf2",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:entity:unknown:791-796:deses",
+      "type": "urn:globalise:entityType:Document",
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3781",
+      "label": "deses"
+    },
+    "target": "urn:globalise:annotation:unknown:3781"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3787",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097287",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/LOC_ADJ",
+          "label": "Derived (adjectival) form of location name"
+        }
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "deccase",
+            "prefix": "deses advijseeren ons de ",
+            "suffix": " opperhooffden bij"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 816,
+            "end": 823
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:c13b5fa5-50df-4869-8cc4-9220cd52a1ea",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:entity:unknown:816-823:deccase",
+      "type": "urn:globalise:entityType:Location",
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3787",
+      "label": "deccase"
+    },
+    "target": "urn:globalise:annotation:unknown:3787"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3793",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097333",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/PRF",
+          "label": "Profession, title"
+        }
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "opperhooffden",
+            "prefix": "advijseeren ons de deccase ",
+            "suffix": " bij een brieff van"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 824,
+            "end": 837
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:7c0c8eb5-20b2-4ef7-9724-f8704433f831",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:entity:unknown:824-837:opperhooffden",
+      "type": "urn:globalise:entityType:Profession",
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3793",
+      "label": "opperhooffden"
+    },
+    "target": "urn:globalise:annotation:unknown:3793"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3799",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097351",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/DOC",
+          "label": "Document"
+        }
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "brieff",
+            "prefix": "opperhooffden bij een ",
+            "suffix": " van 15 Court, dat"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 846,
+            "end": 852
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:5b857806-74fe-4d09-b912-1a6f2b93cd37",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:entity:unknown:846-852:brieff",
+      "type": "urn:globalise:entityType:Document",
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3799",
+      "label": "brieff"
+    },
+    "target": "urn:globalise:annotation:unknown:3799"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3805",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097365",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/DATE",
+          "label": "Date"
+        }
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "15 Court",
+            "prefix": "opperhooffden bij een brieff van ",
+            "suffix": ", dat sij agter"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 857,
+            "end": 865
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:8a8ac0e0-c828-4b2d-8c36-e01f4047bf0e",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:entity:unknown:857-865:15_court",
+      "type": "urn:globalise:entityType:Date",
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3805",
+      "label": "15 Court"
+    },
+    "target": "urn:globalise:annotation:unknown:3805"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3811",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097379",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/DOC",
+          "label": "Document"
+        }
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "verbant schrift",
+            "prefix": "het passeeren van een ",
+            "suffix": " aengaende het"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 929,
+            "end": 944
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:e99ce8eb-7ac4-416e-bc85-bb630ff6049e",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:entity:unknown:929-944:verbant_schrift",
+      "type": "urn:globalise:entityType:Document",
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3811",
+      "label": "verbant schrift"
+    },
+    "target": "urn:globalise:annotation:unknown:3811"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3817",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097393",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/ETH_REL",
+          "label": "Ethno-religious appelation or attribute, not derived from location name"
+        }
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "moorse",
+            "prefix": "Cooperen vervoeren van ",
+            "suffix": " slaven, wij"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 982,
+            "end": 988
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:c479bcf0-8ed9-4848-9dce-61a1d1c6e1c0",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:entity:unknown:982-988:moorse",
+      "type": "urn:globalise:entityType:EthnoReligiousAppelation",
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3817",
+      "label": "moorse"
+    },
+    "target": "urn:globalise:annotation:unknown:3817"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3823",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097410",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/STATUS",
+          "label": "(Civic) status"
+        }
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "slaven",
+            "prefix": "vervoeren van moorse ",
+            "suffix": ", wij bevrijt mogen"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 989,
+            "end": 995
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:8a672178-94fb-48b8-b4f8-dc8f00d403e8",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:entity:unknown:989-995:slaven",
+      "type": "urn:globalise:entityType:CivicStatus",
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3823",
+      "label": "slaven"
+    },
+    "target": "urn:globalise:annotation:unknown:3823"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3829",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097424",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/PER_NAME",
+          "label": "Name of Person"
+        }
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "princenduanhagie mannerh",
+            "prefix": "mogen blijven, bij 's ",
+            "suffix": " tselve wel hebben"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 1031,
+            "end": 1055
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:1dde566d-fcc0-4a01-8640-b0d5691ff9fd",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:entity:unknown:1031-1055:princenduanhagie_mannerh",
+      "type": "urn:globalise:entityType:Person",
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3829",
+      "label": "princenduanhagie mannerh"
+    },
+    "target": "urn:globalise:annotation:unknown:3829"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3835",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097438",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/PRF",
+          "label": "Profession, title"
+        }
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Conincx",
+            "prefix": "antwoort becomen, het 's ",
+            "suffix": " ordre te wesen, en"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 1140,
+            "end": 1147
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:58f42bdd-d02a-43db-aec6-c6ea079e5704",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:entity:unknown:1140-1147:conincx",
+      "type": "urn:globalise:entityType:Profession",
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3835",
+      "label": "Conincx"
+    },
+    "target": "urn:globalise:annotation:unknown:3835"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3841",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097451",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/DOC",
+          "label": "Document"
+        }
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "ordre",
+            "prefix": "becomen, het 's Conincx ",
+            "suffix": " te wesen, en als"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 1148,
+            "end": 1153
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:b3830ff7-5515-4e76-aacd-7da675aa05e1",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:entity:unknown:1148-1153:ordre",
+      "type": "urn:globalise:entityType:Document",
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3841",
+      "label": "ordre"
+    },
+    "target": "urn:globalise:annotation:unknown:3841"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3847",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097463",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/PER_ATTR",
+          "label": "Other persons attributes (than PER or STATUS)"
+        }
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "sijne maij:t",
+            "prefix": "ordre te wesen, en als ",
+            "suffix": " onse onwilligh=t"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 1171,
+            "end": 1183
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:84d0dac7-9960-4530-a4bf-72cbe8737b80",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:entity:unknown:1171-1183:sijne_maij_t",
+      "type": "urn:globalise:entityType:PersonAttribute",
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3847",
+      "label": "sijne maij:t"
+    },
+    "target": "urn:globalise:annotation:unknown:3847"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3853",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097478",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/ORG",
+          "label": "Organisation name"
+        }
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "E Comp=s",
+            "prefix": "ordonneeren, soude, 's ",
+            "suffix": " Logies aff te"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 1272,
+            "end": 1280
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:6ad78742-4e3e-4d26-8762-ebf1f2fc6b92",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:entity:unknown:1272-1280:e_comp_s",
+      "type": "urn:globalise:entityType:Organisation",
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3853",
+      "label": "E Comp=s"
+    },
+    "target": "urn:globalise:annotation:unknown:3853"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3859",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097492",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/LOC_NAME",
+          "label": "Name of Location"
+        }
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Bengale",
+            "prefix": "te breecken, en uijt ",
+            "suffix": " te doen \u2014"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 1313,
+            "end": 1320
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:49296beb-a32a-4c1a-9cff-82a3b4a6bfee",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:entity:unknown:1313-1320:bengale",
+      "type": "urn:globalise:entityType:Location",
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3859",
+      "label": "Bengale"
+    },
+    "target": "urn:globalise:annotation:unknown:3859"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3865",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097505",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/PER_ATTR",
+          "label": "Other persons attributes (than PER or STATUS)"
+        }
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "zijn maij=t",
+            "prefix": "Verhuijsen, doordient ",
+            "suffix": " 30 \u00e2 40O lb a die"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 1353,
+            "end": 1364
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:6f67fcf5-9812-43fc-aed9-d73bd18d8f57",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:entity:unknown:1353-1364:zijn_maij_t",
+      "type": "urn:globalise:entityType:PersonAttribute",
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3865",
+      "label": "zijn maij=t"
+    },
+    "target": "urn:globalise:annotation:unknown:3865"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3871",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097520",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/CMTY_QUANT",
+          "label": "Quantity"
+        }
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "30 \u00e2 40O lb",
+            "prefix": "doordient zijn maij=t ",
+            "suffix": " a die d ECompe"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 1365,
+            "end": 1376
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:a34e0b94-f1d4-465c-a7d1-12697399bb66",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:entity:unknown:1365-1376:30_40o_lb",
+      "type": "urn:globalise:entityType:CommodityQuantity",
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3871",
+      "label": "30 \u00e2 40O lb"
+    },
+    "target": "urn:globalise:annotation:unknown:3871"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3877",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097536",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "https://digitaalerfgoed.poolparty.biz/globalise/annotation/ner/ORG",
+          "label": "Organisation name"
+        }
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "ECompe",
+            "prefix": "30 \u00e2 40O lb a die d ",
+            "suffix": " Iaer Ex:ca maer"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 1385,
+            "end": 1391
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:bdde88fd-0be7-4b5d-ae59-102fc0815c97",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:entity:unknown:1385-1391:ecompe",
+      "type": "urn:globalise:entityType:Organisation",
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3877",
+      "label": "ECompe"
+    },
+    "target": "urn:globalise:annotation:unknown:3877"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3570",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097582",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#EndingContractualAgreement"
+      },
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#isOfType"
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Expireeren",
+            "prefix": "ao 1677 is komen te ",
+            "suffix": ", soo gaat bij"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 130,
+            "end": 140
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3951",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097592",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": {
+      "purpose": "classifying",
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#AgentPatient"
+    },
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "sijn",
+            "prefix": "bevestight en alsoo ",
+            "suffix": " Iongste verbandt"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 58,
+            "end": 62
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3570-3951",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097597",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "motivation": "linking",
+    "body": {
+      "purpose": "classifying",
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#AgentPatient"
+    },
+    "target": [
+      "urn:globalise:annotation:unknown:3570",
+      "urn:globalise:annotation:unknown:3951"
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "glob": "https://github.com/globalise-huygens/nlp-event-detection/wiki#",
+        "sem": "http://semanticweb.cs.vu.nl/2009/11/sem/",
+        "hasActor": "sem:hasActor",
+        "hasTime": "sem:hasTime",
+        "hasPlace": "sem:hasPlace",
+        "Event": "sem:Event",
+        "roleType": {
+          "@id": "sem:roleType",
+          "@type": "@id"
+        },
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:ed0e0dc2-f412-4ed0-be2e-7ab9520141c3",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:event:unknown:expireeren:3570",
+      "type": [
+        "Event",
+        "https://github.com/globalise-huygens/nlp-event-detection/wiki#EndingContractualAgreement"
+      ],
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3570",
+      "hasActor": [
+        {
+          "type": "sem:Role",
+          "roleType": "glob:AgentPatient",
+          "value": {
+            "id": "urn:globalise:event_argument:unknown:58-62:sijn",
+            "label": "sijn"
+          }
+        }
+      ]
+    },
+    "target": "urn:globalise:annotation:unknown:3570"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3577",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097622",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Request"
+      },
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#isOfType"
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "requeste",
+            "prefix": "soo gaat bij desen sij ",
+            "suffix": " tot uEd=le Hooge"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 165,
+            "end": 173
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "glob": "https://github.com/globalise-huygens/nlp-event-detection/wiki#",
+        "sem": "http://semanticweb.cs.vu.nl/2009/11/sem/",
+        "hasActor": "sem:hasActor",
+        "hasTime": "sem:hasTime",
+        "hasPlace": "sem:hasPlace",
+        "Event": "sem:Event",
+        "roleType": {
+          "@id": "sem:roleType",
+          "@type": "@id"
+        },
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:9edd77ef-23b4-4e64-9a24-8082943fa0af",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:event:unknown:requeste:3577",
+      "type": [
+        "Event",
+        "https://github.com/globalise-huygens/nlp-event-detection/wiki#Request"
+      ],
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3577"
+    },
+    "target": "urn:globalise:annotation:unknown:3577"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3584",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097636",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Request"
+      },
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#isOfType"
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "versoeckende",
+            "prefix": "gagie daer toestaende is ",
+            "suffix": ", en waernevens"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 278,
+            "end": 290
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "glob": "https://github.com/globalise-huygens/nlp-event-detection/wiki#",
+        "sem": "http://semanticweb.cs.vu.nl/2009/11/sem/",
+        "hasActor": "sem:hasActor",
+        "hasTime": "sem:hasTime",
+        "hasPlace": "sem:hasPlace",
+        "Event": "sem:Event",
+        "roleType": {
+          "@id": "sem:roleType",
+          "@type": "@id"
+        },
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:214744b2-58fc-4280-8ec4-4aa69e996917",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:event:unknown:versoeckende:3584",
+      "type": [
+        "Event",
+        "https://github.com/globalise-huygens/nlp-event-detection/wiki#Request"
+      ],
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3584"
+    },
+    "target": "urn:globalise:annotation:unknown:3584"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3591",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097650",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Giving"
+      },
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#isOfType"
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "geven",
+            "prefix": "getuijgenisse moeten ",
+            "suffix": ", dat voorn:"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 332,
+            "end": 337
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3957",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097658",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": {
+      "purpose": "classifying",
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Patient"
+    },
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "getuijgenisse",
+            "prefix": "versoeckende, en waernevens oocq ",
+            "suffix": " moeten geven, dat"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 311,
+            "end": 324
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3591-3957",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097665",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "motivation": "linking",
+    "body": {
+      "purpose": "classifying",
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Patient"
+    },
+    "target": [
+      "urn:globalise:annotation:unknown:3591",
+      "urn:globalise:annotation:unknown:3957"
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "glob": "https://github.com/globalise-huygens/nlp-event-detection/wiki#",
+        "sem": "http://semanticweb.cs.vu.nl/2009/11/sem/",
+        "hasActor": "sem:hasActor",
+        "hasTime": "sem:hasTime",
+        "hasPlace": "sem:hasPlace",
+        "Event": "sem:Event",
+        "roleType": {
+          "@id": "sem:roleType",
+          "@type": "@id"
+        },
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:c5ed749b-62e8-48ce-9261-a14ee39bf0c8",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:event:unknown:geven:3591",
+      "type": [
+        "Event",
+        "https://github.com/globalise-huygens/nlp-event-detection/wiki#Giving"
+      ],
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3591",
+      "hasActor": [
+        {
+          "type": "sem:Role",
+          "roleType": "glob:Patient",
+          "value": {
+            "id": "urn:globalise:event_argument:unknown:311-324:getuijgenisse",
+            "label": "getuijgenisse"
+          }
+        }
+      ]
+    },
+    "target": "urn:globalise:annotation:unknown:3591"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3598",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097681",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Giving"
+      },
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#isOfType"
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "gegeven",
+            "prefix": "volcomen Contentement heeft ",
+            "suffix": ", en ooiq sijne"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 436,
+            "end": 443
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3963",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097689",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": {
+      "purpose": "classifying",
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Agent"
+    },
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Hisselt",
+            "prefix": "moeten geven, dat voorn: ",
+            "suffix": " insijne bedieninge"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 350,
+            "end": 357
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3598-3963",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097693",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "motivation": "linking",
+    "body": {
+      "purpose": "classifying",
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Agent"
+    },
+    "target": [
+      "urn:globalise:annotation:unknown:3598",
+      "urn:globalise:annotation:unknown:3963"
+    ]
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3966",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097700",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": {
+      "purpose": "classifying",
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Benefactive"
+    },
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "ons",
+            "prefix": "EerstClercq en secrt=s ",
+            "suffix": " volcomen"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 404,
+            "end": 407
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3598-3966",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097703",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "motivation": "linking",
+    "body": {
+      "purpose": "classifying",
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Benefactive"
+    },
+    "target": [
+      "urn:globalise:annotation:unknown:3598",
+      "urn:globalise:annotation:unknown:3966"
+    ]
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3969",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097711",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": {
+      "purpose": "classifying",
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Patient"
+    },
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "volcomen Contentement",
+            "prefix": "EerstClercq en secrt=s ons ",
+            "suffix": " heeft gegeven, en"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 408,
+            "end": 429
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3598-3969",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097715",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "motivation": "linking",
+    "body": {
+      "purpose": "classifying",
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Patient"
+    },
+    "target": [
+      "urn:globalise:annotation:unknown:3598",
+      "urn:globalise:annotation:unknown:3969"
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "glob": "https://github.com/globalise-huygens/nlp-event-detection/wiki#",
+        "sem": "http://semanticweb.cs.vu.nl/2009/11/sem/",
+        "hasActor": "sem:hasActor",
+        "hasTime": "sem:hasTime",
+        "hasPlace": "sem:hasPlace",
+        "Event": "sem:Event",
+        "roleType": {
+          "@id": "sem:roleType",
+          "@type": "@id"
+        },
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:bd28deb2-97e5-4d2b-80d0-be70f9422fea",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:event:unknown:gegeven:3598",
+      "type": [
+        "Event",
+        "https://github.com/globalise-huygens/nlp-event-detection/wiki#Giving"
+      ],
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3598",
+      "hasActor": [
+        {
+          "type": "sem:Role",
+          "roleType": "glob:Agent",
+          "value": {
+            "id": "urn:globalise:event_argument:unknown:350-357:hisselt",
+            "label": "Hisselt"
+          }
+        },
+        {
+          "type": "sem:Role",
+          "roleType": "glob:Benefactive",
+          "value": {
+            "id": "urn:globalise:event_argument:unknown:404-407:ons",
+            "label": "ons"
+          }
+        },
+        {
+          "type": "sem:Role",
+          "roleType": "glob:Patient",
+          "value": {
+            "id": "urn:globalise:event_argument:unknown:408-429:volcomen_contentement",
+            "label": "volcomen Contentement"
+          }
+        }
+      ]
+    },
+    "target": "urn:globalise:annotation:unknown:3598"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3605",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097737",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Request"
+      },
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#evokes"
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "believende",
+            "prefix": "uEd=le hoog agtb: hem ",
+            "suffix": " te advanceeren,"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 552,
+            "end": 562
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "glob": "https://github.com/globalise-huygens/nlp-event-detection/wiki#",
+        "sem": "http://semanticweb.cs.vu.nl/2009/11/sem/",
+        "hasActor": "sem:hasActor",
+        "hasTime": "sem:hasTime",
+        "hasPlace": "sem:hasPlace",
+        "Event": "sem:Event",
+        "roleType": {
+          "@id": "sem:roleType",
+          "@type": "@id"
+        },
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:f181f65c-64c8-459c-ac7f-2182453a3857",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:event:unknown:believende:3605",
+      "type": [
+        "Event",
+        "https://github.com/globalise-huygens/nlp-event-detection/wiki#Request"
+      ],
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3605"
+    },
+    "target": "urn:globalise:annotation:unknown:3605"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3612",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097751",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#SocialStatusChange"
+      },
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#evokes"
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "advanceeren",
+            "prefix": "agtb: hem believende te ",
+            "suffix": ", sal hij met allen"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 566,
+            "end": 577
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3977",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097759",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": {
+      "purpose": "classifying",
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Patient"
+    },
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "hem",
+            "prefix": "toe uEd=le hoog agtb: ",
+            "suffix": " believende te"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 548,
+            "end": 551
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3612-3977",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097763",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "motivation": "linking",
+    "body": {
+      "purpose": "classifying",
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Patient"
+    },
+    "target": [
+      "urn:globalise:annotation:unknown:3612",
+      "urn:globalise:annotation:unknown:3977"
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "glob": "https://github.com/globalise-huygens/nlp-event-detection/wiki#",
+        "sem": "http://semanticweb.cs.vu.nl/2009/11/sem/",
+        "hasActor": "sem:hasActor",
+        "hasTime": "sem:hasTime",
+        "hasPlace": "sem:hasPlace",
+        "Event": "sem:Event",
+        "roleType": {
+          "@id": "sem:roleType",
+          "@type": "@id"
+        },
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:73b0bee8-bec8-4c0a-a6ca-24c1a97a80ae",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:event:unknown:advanceeren:3612",
+      "type": [
+        "Event",
+        "https://github.com/globalise-huygens/nlp-event-detection/wiki#SocialStatusChange"
+      ],
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3612",
+      "hasActor": [
+        {
+          "type": "sem:Role",
+          "roleType": "glob:Patient",
+          "value": {
+            "id": "urn:globalise:event_argument:unknown:548-551:hem",
+            "label": "hem"
+          }
+        }
+      ]
+    },
+    "target": "urn:globalise:annotation:unknown:3612"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3619",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097779",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Arriving"
+      },
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#isOfType"
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "komen te arriveeren",
+            "prefix": "godtsij loff behouden ",
+            "suffix": " de fluijt de"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 727,
+            "end": 746
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3983",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097787",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": {
+      "purpose": "classifying",
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Target"
+    },
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "beneden op de Rivierde ganges",
+            "prefix": "15:e Courant is oocq ",
+            "suffix": " godtsij loff"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 675,
+            "end": 704
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3619-3983",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097792",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "motivation": "linking",
+    "body": {
+      "purpose": "classifying",
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Target"
+    },
+    "target": [
+      "urn:globalise:annotation:unknown:3619",
+      "urn:globalise:annotation:unknown:3983"
+    ]
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3986",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097798",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": {
+      "purpose": "classifying",
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Agent"
+    },
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "de fluijt de berckmeer",
+            "prefix": "komen te arriveeren ",
+            "suffix": ", nog voor't"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 747,
+            "end": 769
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3619-3986",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097802",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "motivation": "linking",
+    "body": {
+      "purpose": "classifying",
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Agent"
+    },
+    "target": [
+      "urn:globalise:annotation:unknown:3619",
+      "urn:globalise:annotation:unknown:3986"
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "glob": "https://github.com/globalise-huygens/nlp-event-detection/wiki#",
+        "sem": "http://semanticweb.cs.vu.nl/2009/11/sem/",
+        "hasActor": "sem:hasActor",
+        "hasTime": "sem:hasTime",
+        "hasPlace": "sem:hasPlace",
+        "Event": "sem:Event",
+        "roleType": {
+          "@id": "sem:roleType",
+          "@type": "@id"
+        },
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:f0bf30d2-e442-4073-bb76-1df488e24baa",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:event:unknown:komen_te_arriveeren:3619",
+      "type": [
+        "Event",
+        "https://github.com/globalise-huygens/nlp-event-detection/wiki#Arriving"
+      ],
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3619",
+      "hasActor": [
+        {
+          "type": "sem:Role",
+          "roleType": "glob:Agent",
+          "value": {
+            "id": "urn:globalise:event_argument:unknown:747-769:de_fluijt_de_berckmeer",
+            "label": "de fluijt de berckmeer"
+          }
+        }
+      ],
+      "hasPlace": [
+        {
+          "type": "sem:Role",
+          "roleType": "glob:Target",
+          "value": {
+            "id": "urn:globalise:event_argument:unknown:675-704:beneden_op_de_rivierde_ganges",
+            "label": "beneden op de Rivierde ganges"
+          }
+        }
+      ]
+    },
+    "target": "urn:globalise:annotation:unknown:3619"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3626",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097820",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#SocialInteraction"
+      },
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#evokes"
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "advijseeren",
+            "prefix": "voor't sluijten deses ",
+            "suffix": " ons de deccase"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 797,
+            "end": 808
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3993",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097828",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": {
+      "purpose": "classifying",
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#AgentPatient"
+    },
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "de deccase opperhooffden",
+            "prefix": "deses advijseeren ons ",
+            "suffix": " bij een brieff van"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 813,
+            "end": 837
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3626-3993",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097832",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "motivation": "linking",
+    "body": {
+      "purpose": "classifying",
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#AgentPatient"
+    },
+    "target": [
+      "urn:globalise:annotation:unknown:3626",
+      "urn:globalise:annotation:unknown:3993"
+    ]
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3996",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097839",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": {
+      "purpose": "classifying",
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#AgentPatient"
+    },
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "ons",
+            "prefix": "sluijten deses advijseeren ",
+            "suffix": " de deccase"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 809,
+            "end": 812
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3626-3996",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097842",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "motivation": "linking",
+    "body": {
+      "purpose": "classifying",
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#AgentPatient"
+    },
+    "target": [
+      "urn:globalise:annotation:unknown:3626",
+      "urn:globalise:annotation:unknown:3996"
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "glob": "https://github.com/globalise-huygens/nlp-event-detection/wiki#",
+        "sem": "http://semanticweb.cs.vu.nl/2009/11/sem/",
+        "hasActor": "sem:hasActor",
+        "hasTime": "sem:hasTime",
+        "hasPlace": "sem:hasPlace",
+        "Event": "sem:Event",
+        "roleType": {
+          "@id": "sem:roleType",
+          "@type": "@id"
+        },
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:e353c008-f398-4349-962d-219ddd0994d1",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:event:unknown:advijseeren:3626",
+      "type": [
+        "Event",
+        "https://github.com/globalise-huygens/nlp-event-detection/wiki#SocialInteraction"
+      ],
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3626",
+      "hasActor": [
+        {
+          "type": "sem:Role",
+          "roleType": "glob:AgentPatient",
+          "value": {
+            "id": "urn:globalise:event_argument:unknown:813-837:de_deccase_opperhooffden",
+            "label": "de deccase opperhooffden"
+          }
+        },
+        {
+          "type": "sem:Role",
+          "roleType": "glob:AgentPatient",
+          "value": {
+            "id": "urn:globalise:event_argument:unknown:809-812:ons",
+            "label": "ons"
+          }
+        }
+      ]
+    },
+    "target": "urn:globalise:annotation:unknown:3626"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3633",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097876",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#SocialInteraction"
+      },
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#evokes"
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "ordre",
+            "prefix": "sij agter volgens onse ",
+            "suffix": " om van het"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 894,
+            "end": 899
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "glob": "https://github.com/globalise-huygens/nlp-event-detection/wiki#",
+        "sem": "http://semanticweb.cs.vu.nl/2009/11/sem/",
+        "hasActor": "sem:hasActor",
+        "hasTime": "sem:hasTime",
+        "hasPlace": "sem:hasPlace",
+        "Event": "sem:Event",
+        "roleType": {
+          "@id": "sem:roleType",
+          "@type": "@id"
+        },
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:7a4e122c-2cad-4e7a-b596-e06ea3ec41e0",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:event:unknown:ordre:3633",
+      "type": [
+        "Event",
+        "https://github.com/globalise-huygens/nlp-event-detection/wiki#SocialInteraction"
+      ],
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3633"
+    },
+    "target": "urn:globalise:annotation:unknown:3633"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3640",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097890",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Transportation"
+      },
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#evokes"
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "passeeren",
+            "prefix": "onse ordre om van het ",
+            "suffix": " van een verbant"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 911,
+            "end": 920
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:4003",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097897",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": {
+      "purpose": "classifying",
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Patient"
+    },
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "verbant schrift",
+            "prefix": "het passeeren van een ",
+            "suffix": " aengaende het"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 929,
+            "end": 944
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3640-4003",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097901",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "motivation": "linking",
+    "body": {
+      "purpose": "classifying",
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Patient"
+    },
+    "target": [
+      "urn:globalise:annotation:unknown:3640",
+      "urn:globalise:annotation:unknown:4003"
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "glob": "https://github.com/globalise-huygens/nlp-event-detection/wiki#",
+        "sem": "http://semanticweb.cs.vu.nl/2009/11/sem/",
+        "hasActor": "sem:hasActor",
+        "hasTime": "sem:hasTime",
+        "hasPlace": "sem:hasPlace",
+        "Event": "sem:Event",
+        "roleType": {
+          "@id": "sem:roleType",
+          "@type": "@id"
+        },
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:a026c639-bef2-4e89-bc6c-3b1931d481cf",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:event:unknown:passeeren:3640",
+      "type": [
+        "Event",
+        "https://github.com/globalise-huygens/nlp-event-detection/wiki#Transportation"
+      ],
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3640",
+      "hasActor": [
+        {
+          "type": "sem:Role",
+          "roleType": "glob:Patient",
+          "value": {
+            "id": "urn:globalise:event_argument:unknown:929-944:verbant_schrift",
+            "label": "verbant schrift"
+          }
+        }
+      ]
+    },
+    "target": "urn:globalise:annotation:unknown:3640"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3647",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097915",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Transportation"
+      },
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#isOfType"
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "vervoeren",
+            "prefix": "aengaende het Cooperen ",
+            "suffix": " van moorse slaven,"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 968,
+            "end": 977
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "glob": "https://github.com/globalise-huygens/nlp-event-detection/wiki#",
+        "sem": "http://semanticweb.cs.vu.nl/2009/11/sem/",
+        "hasActor": "sem:hasActor",
+        "hasTime": "sem:hasTime",
+        "hasPlace": "sem:hasPlace",
+        "Event": "sem:Event",
+        "roleType": {
+          "@id": "sem:roleType",
+          "@type": "@id"
+        },
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:59619b41-f525-4e10-a56b-f56fa07ad5fe",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:event:unknown:vervoeren:3647",
+      "type": [
+        "Event",
+        "https://github.com/globalise-huygens/nlp-event-detection/wiki#Transportation"
+      ],
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3647"
+    },
+    "target": "urn:globalise:annotation:unknown:3647"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3654",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097930",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Request"
+      },
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#evokes"
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "bevrijt mogen blijven",
+            "prefix": "van moorse slaven, wij ",
+            "suffix": ", bij 's"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 1001,
+            "end": 1022
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:4009",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097938",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": {
+      "purpose": "classifying",
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Agent"
+    },
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "wij",
+            "prefix": "vervoeren van moorse slaven, ",
+            "suffix": " bevrijt mogen"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 997,
+            "end": 1000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3654-4009",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097941",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "motivation": "linking",
+    "body": {
+      "purpose": "classifying",
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Agent"
+    },
+    "target": [
+      "urn:globalise:annotation:unknown:3654",
+      "urn:globalise:annotation:unknown:4009"
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "glob": "https://github.com/globalise-huygens/nlp-event-detection/wiki#",
+        "sem": "http://semanticweb.cs.vu.nl/2009/11/sem/",
+        "hasActor": "sem:hasActor",
+        "hasTime": "sem:hasTime",
+        "hasPlace": "sem:hasPlace",
+        "Event": "sem:Event",
+        "roleType": {
+          "@id": "sem:roleType",
+          "@type": "@id"
+        },
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:f9ff9c18-4246-441f-a63c-c1c50e80b2df",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:event:unknown:bevrijt_mogen_blijven:3654",
+      "type": [
+        "Event",
+        "https://github.com/globalise-huygens/nlp-event-detection/wiki#Request"
+      ],
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3654",
+      "hasActor": [
+        {
+          "type": "sem:Role",
+          "roleType": "glob:Agent",
+          "value": {
+            "id": "urn:globalise:event_argument:unknown:997-1000:wij",
+            "label": "wij"
+          }
+        }
+      ]
+    },
+    "target": "urn:globalise:annotation:unknown:3654"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3661",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097956",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#SocialInteraction"
+      },
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#evokes"
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "ter ooren quam",
+            "prefix": "maij:t onse onwilligh=t ",
+            "suffix": ", hij met een"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 1201,
+            "end": 1215
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "glob": "https://github.com/globalise-huygens/nlp-event-detection/wiki#",
+        "sem": "http://semanticweb.cs.vu.nl/2009/11/sem/",
+        "hasActor": "sem:hasActor",
+        "hasTime": "sem:hasTime",
+        "hasPlace": "sem:hasPlace",
+        "Event": "sem:Event",
+        "roleType": {
+          "@id": "sem:roleType",
+          "@type": "@id"
+        },
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:647c7488-c354-47b8-b401-1e8b6b0ebbf8",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:event:unknown:ter_ooren_quam:3661",
+      "type": [
+        "Event",
+        "https://github.com/globalise-huygens/nlp-event-detection/wiki#SocialInteraction"
+      ],
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3661"
+    },
+    "target": "urn:globalise:annotation:unknown:3661"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3668",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097971",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#HavingInternalStateMin"
+      },
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#evokes"
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "gestoort gemoet",
+            "prefix": "ooren quam, hij met een ",
+            "suffix": " wel ordonneeren,"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 1229,
+            "end": 1244
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "glob": "https://github.com/globalise-huygens/nlp-event-detection/wiki#",
+        "sem": "http://semanticweb.cs.vu.nl/2009/11/sem/",
+        "hasActor": "sem:hasActor",
+        "hasTime": "sem:hasTime",
+        "hasPlace": "sem:hasPlace",
+        "Event": "sem:Event",
+        "roleType": {
+          "@id": "sem:roleType",
+          "@type": "@id"
+        },
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:fe793dfd-95ba-4f7c-ac98-da19ec731afd",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:event:unknown:gestoort_gemoet:3668",
+      "type": [
+        "Event",
+        "https://github.com/globalise-huygens/nlp-event-detection/wiki#HavingInternalStateMin"
+      ],
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3668"
+    },
+    "target": "urn:globalise:annotation:unknown:3668"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3675",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097985",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#ForceToAct"
+      },
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#isOfType"
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "ordonneeren",
+            "prefix": "gestoort gemoet wel ",
+            "suffix": ", soude, 's E"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 1249,
+            "end": 1260
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "glob": "https://github.com/globalise-huygens/nlp-event-detection/wiki#",
+        "sem": "http://semanticweb.cs.vu.nl/2009/11/sem/",
+        "hasActor": "sem:hasActor",
+        "hasTime": "sem:hasTime",
+        "hasPlace": "sem:hasPlace",
+        "Event": "sem:Event",
+        "roleType": {
+          "@id": "sem:roleType",
+          "@type": "@id"
+        },
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:c86a03ae-1340-4497-8144-2ae92d84cc7e",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:event:unknown:ordonneeren:3675",
+      "type": [
+        "Event",
+        "https://github.com/globalise-huygens/nlp-event-detection/wiki#ForceToAct"
+      ],
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3675"
+    },
+    "target": "urn:globalise:annotation:unknown:3675"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3682",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.097997",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Destroying"
+      },
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#isOfType"
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "aff te breecken",
+            "prefix": "'s E Comp=s Logies ",
+            "suffix": ", en uijt Bengale"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 1288,
+            "end": 1303
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:4015",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.098005",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": {
+      "purpose": "classifying",
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Patient"
+    },
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "'s E Comp=s Logies",
+            "prefix": "ordonneeren, soude, ",
+            "suffix": " aff te breecken,"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 1269,
+            "end": 1287
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3682-4015",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.098009",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "motivation": "linking",
+    "body": {
+      "purpose": "classifying",
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Patient"
+    },
+    "target": [
+      "urn:globalise:annotation:unknown:3682",
+      "urn:globalise:annotation:unknown:4015"
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "glob": "https://github.com/globalise-huygens/nlp-event-detection/wiki#",
+        "sem": "http://semanticweb.cs.vu.nl/2009/11/sem/",
+        "hasActor": "sem:hasActor",
+        "hasTime": "sem:hasTime",
+        "hasPlace": "sem:hasPlace",
+        "Event": "sem:Event",
+        "roleType": {
+          "@id": "sem:roleType",
+          "@type": "@id"
+        },
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:97ea214e-74fb-4584-8c77-0de67240a0e1",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:event:unknown:aff_te_breecken:3682",
+      "type": [
+        "Event",
+        "https://github.com/globalise-huygens/nlp-event-detection/wiki#Destroying"
+      ],
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3682",
+      "hasActor": [
+        {
+          "type": "sem:Role",
+          "roleType": "glob:Patient",
+          "value": {
+            "id": "urn:globalise:event_argument:unknown:1269-1287:s_e_comp_s_logies",
+            "label": "'s E Comp=s Logies"
+          }
+        }
+      ]
+    },
+    "target": "urn:globalise:annotation:unknown:3682"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3689",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.098025",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Leaving"
+      },
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#isOfType"
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Verhuijsen",
+            "prefix": "uijt Bengale te doen \u2014 ",
+            "suffix": ", doordient zijn"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 1331,
+            "end": 1341
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:4021",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.098032",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": {
+      "purpose": "classifying",
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Source"
+    },
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Bengale",
+            "prefix": "te breecken, en uijt ",
+            "suffix": " te doen \u2014"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 1313,
+            "end": 1320
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3689-4021",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.098036",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "motivation": "linking",
+    "body": {
+      "purpose": "classifying",
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Source"
+    },
+    "target": [
+      "urn:globalise:annotation:unknown:3689",
+      "urn:globalise:annotation:unknown:4021"
+    ]
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:4024",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.098042",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": {
+      "purpose": "classifying",
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Agent"
+    },
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "E Comp=s",
+            "prefix": "ordonneeren, soude, 's ",
+            "suffix": " Logies aff te"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 1272,
+            "end": 1280
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3689-4024",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.098046",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "motivation": "linking",
+    "body": {
+      "purpose": "classifying",
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Agent"
+    },
+    "target": [
+      "urn:globalise:annotation:unknown:3689",
+      "urn:globalise:annotation:unknown:4024"
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "glob": "https://github.com/globalise-huygens/nlp-event-detection/wiki#",
+        "sem": "http://semanticweb.cs.vu.nl/2009/11/sem/",
+        "hasActor": "sem:hasActor",
+        "hasTime": "sem:hasTime",
+        "hasPlace": "sem:hasPlace",
+        "Event": "sem:Event",
+        "roleType": {
+          "@id": "sem:roleType",
+          "@type": "@id"
+        },
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:45440710-b3de-46d0-b644-3caf371ed2d6",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:event:unknown:verhuijsen:3689",
+      "type": [
+        "Event",
+        "https://github.com/globalise-huygens/nlp-event-detection/wiki#Leaving"
+      ],
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3689",
+      "hasActor": [
+        {
+          "type": "sem:Role",
+          "roleType": "glob:Agent",
+          "value": {
+            "id": "urn:globalise:event_argument:unknown:1272-1280:e_comp_s",
+            "label": "E Comp=s"
+          }
+        }
+      ],
+      "hasPlace": [
+        {
+          "type": "sem:Role",
+          "roleType": "glob:Source",
+          "value": {
+            "id": "urn:globalise:event_argument:unknown:1313-1320:bengale",
+            "label": "Bengale"
+          }
+        }
+      ]
+    },
+    "target": "urn:globalise:annotation:unknown:3689"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3696",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.098062",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": [
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Arriving"
+      },
+      {
+        "purpose": "classifying",
+        "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#isOfType"
+      }
+    ],
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "aenquam",
+            "prefix": "maer vertolde, niet "
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 1423,
+            "end": 1430
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:4031",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.098070",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "body": {
+      "purpose": "classifying",
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Agent"
+    },
+    "target": [
+      {
+        "type": "SpecificResource",
+        "source": "urn:placeholder",
+        "selector": [
+          {
+            "type": "TextQuoteSelector",
+            "exact": "30 \u00e2 40O lb",
+            "prefix": "doordient zijn maij=t ",
+            "suffix": " a die d ECompe"
+          },
+          {
+            "type": "TextPositionSelector",
+            "start": 1365,
+            "end": 1376
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "urn:globalise:annotation:unknown:3696-4031",
+    "type": "Annotation",
+    "generated": "2024-06-27T11:56:55.098074",
+    "generator": {
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/6eb408d9be00327863ba2d02eba7867ea9f95296/scripts/gt-xmi-to-wa.py",
+      "type": "Software",
+      "name": "scripts/gt-xmi-to-wa.py"
+    },
+    "motivation": "linking",
+    "body": {
+      "purpose": "classifying",
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Agent"
+    },
+    "target": [
+      "urn:globalise:annotation:unknown:3696",
+      "urn:globalise:annotation:unknown:4031"
+    ]
+  },
+  {
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      {
+        "prov": "http://www.w3.org/ns/prov#",
+        "glob": "https://github.com/globalise-huygens/nlp-event-detection/wiki#",
+        "sem": "http://semanticweb.cs.vu.nl/2009/11/sem/",
+        "hasActor": "sem:hasActor",
+        "hasTime": "sem:hasTime",
+        "hasPlace": "sem:hasPlace",
+        "Event": "sem:Event",
+        "roleType": {
+          "@id": "sem:roleType",
+          "@type": "@id"
+        },
+        "wasDerivedFrom": {
+          "@id": "prov:wasDerivedFrom",
+          "@type": "@id"
+        }
+      }
+    ],
+    "id": "urn:globalise:annotation:unknown:2d8d4e9a-9fb9-4d5f-a6b1-3130e0187ba0",
+    "type": "Annotation",
+    "body": {
+      "id": "urn:globalise:event:unknown:aenquam:3696",
+      "type": [
+        "Event",
+        "https://github.com/globalise-huygens/nlp-event-detection/wiki#Arriving"
+      ],
+      "wasDerivedFrom": "urn:globalise:annotation:unknown:3696",
+      "hasActor": [
+        {
+          "type": "sem:Role",
+          "roleType": "glob:Agent",
+          "value": {
+            "id": "urn:globalise:event_argument:unknown:1365-1376:30_40o_lb",
+            "label": "30 \u00e2 40O lb"
+          }
+        }
+      ]
+    },
+    "target": "urn:globalise:annotation:unknown:3696"
+  }
+]
