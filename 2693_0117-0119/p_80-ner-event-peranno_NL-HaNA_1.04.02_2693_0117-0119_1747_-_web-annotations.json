@@ -3,9 +3,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5658",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.272725",
+    "generated": "2024-07-15T09:31:53.108073",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -67,7 +67,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:ba1257c0-6621-4c83-ad8a-7b984e85a24a",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:f70bd310-966d-441f-982c-cd3c1d78e6d3",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:50-55:heere",
@@ -81,9 +81,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5664",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.272835",
+    "generated": "2024-07-15T09:31:53.108207",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -145,7 +145,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:fb530934-0a26-4280-b875-782136feb2df",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:cb2418a5-00e4-4612-b9f2-e3b520cfff01",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:56-93:julius_valentijn_stein_van_pollenesse",
@@ -159,9 +159,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5670",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.272876",
+    "generated": "2024-07-15T09:31:53.108259",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -223,7 +223,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:f9df642e-4805-40fb-8024-6ee92ffc0600",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:92c12b53-03d9-45fa-aee1-c39ebed09676",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:95-109:raad_ordinaris",
@@ -237,9 +237,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5676",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.272915",
+    "generated": "2024-07-15T09:31:53.108300",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -301,7 +301,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:1c9b71de-2601-440f-b26a-3951cba4e2b2",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:31307353-0dd6-48c8-9791-bd2462be3722",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:114-130:nederlands_india",
@@ -315,9 +315,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5682",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.272951",
+    "generated": "2024-07-15T09:31:53.108337",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -379,7 +379,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:652f3024-741f-4a29-a675-6eeec10a6b41",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:fa308067-ff88-4b60-9bea-8b7d4121e757",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:132-142:gouverneur",
@@ -393,9 +393,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5688",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.272985",
+    "generated": "2024-07-15T09:31:53.108373",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -457,7 +457,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:f7ea5413-dc85-441a-9302-31b9fb1c5bf8",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:43b84fb7-1807-47c3-983a-e13b78ebf080",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:143-150:ceijlon",
@@ -471,9 +471,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5694",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.273021",
+    "generated": "2024-07-15T09:31:53.108410",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -535,7 +535,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:8fa82d89-42f5-4a2a-ad48-b36d9bd1586f",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:8fc25133-0690-4999-85e1-9f7304f40494",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:154-163:directeur",
@@ -549,9 +549,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5700",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.273062",
+    "generated": "2024-07-15T09:31:53.108451",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -613,7 +613,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:0427ef69-cab4-4bbd-9f84-538f2cf2c8ce",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:056f4588-d628-4ec8-9ff7-46037bdf318b",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:241-246:heere",
@@ -627,9 +627,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5706",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.273092",
+    "generated": "2024-07-15T09:31:53.108483",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -691,7 +691,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:d1f61b8b-d0bf-43dd-b7f3-9effdd47efee",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:27c4a2e9-c0ba-422d-9c0a-69817ee9bb66",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:251-262:grootmoeder",
@@ -705,9 +705,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5712",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.273126",
+    "generated": "2024-07-15T09:31:53.108513",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -769,7 +769,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:9a783f91-6051-40d5-be59-e2df990b8a81",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:2b5be84c-a57e-4c69-b9ce-88efc488573c",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:281-290:candiesen",
@@ -783,9 +783,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5718",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.273155",
+    "generated": "2024-07-15T09:31:53.108545",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -847,7 +847,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:09755a91-d5f9-44a0-a9d5-cc26f30dcd55",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:4530cae0-0f50-4cdf-b386-af7aa025888c",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:291-296:vorst",
@@ -861,9 +861,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5724",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.273185",
+    "generated": "2024-07-15T09:31:53.108575",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -925,7 +925,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:22d616dc-545d-4519-9be6-3a4620374935",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:d33881b4-24a3-451e-bee0-97ca5eac62af",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:309-318:vaartuijg",
@@ -939,9 +939,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5730",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.273219",
+    "generated": "2024-07-15T09:31:53.108605",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -1003,7 +1003,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:978c7da0-2898-456b-a041-a5eef1a6b265",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:64785b78-55fa-4597-af70-7e9dd12948cf",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:364-375:marticattij",
@@ -1017,9 +1017,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5736",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.273249",
+    "generated": "2024-07-15T09:31:53.108635",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -1081,7 +1081,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6754db3a-4494-4438-9681-ba4319434c17",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:7414201f-ea82-4ad9-bc80-0c19408bdcc9",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:397-408:grootmoeder",
@@ -1095,9 +1095,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5742",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.273305",
+    "generated": "2024-07-15T09:31:53.108665",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -1159,7 +1159,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5d5ab40e-170f-485f-9507-1dd6286de72c",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:65662c95-5292-4944-be19-72607f83b05a",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:412-421:bakenburg",
@@ -1173,9 +1173,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5748",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.273334",
+    "generated": "2024-07-15T09:31:53.108694",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -1237,7 +1237,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:c92fc5dc-7243-4ee0-a910-5bedcf30d8d6",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5348b14c-ad1d-438b-811e-6b9d7651c2bc",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:495-500:brief",
@@ -1251,9 +1251,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5754",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.273366",
+    "generated": "2024-07-15T09:31:53.108726",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -1315,7 +1315,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:b0f88a8f-69fc-4ed2-907a-ebb1dfd3c68d",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:49c9d169-07d7-41b3-8d12-8b378067936b",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:509-519:10_deser",
@@ -1329,9 +1329,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5760",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.273395",
+    "generated": "2024-07-15T09:31:53.108755",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -1393,7 +1393,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:242ed8f9-6cbf-4f9d-a5a3-4d2b8b0b9e62",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:2f8e7e69-ee55-469b-9567-305dd0cdff88",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:538-547:bakenburg",
@@ -1407,9 +1407,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5766",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.273424",
+    "generated": "2024-07-15T09:31:53.108785",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -1471,7 +1471,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:80351817-8ee0-45fd-9110-a9b8d9055fde",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:1a75ca20-c216-4255-88fd-0607bdacd40b",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:611-617:linnen",
@@ -1485,9 +1485,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5772",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.273454",
+    "generated": "2024-07-15T09:31:53.108817",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -1549,7 +1549,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5ab39b81-e8c6-4c4c-8d96-d42bdaf6b7d8",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:17c78c6e-03d3-41b0-ae65-e0022af80c69",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:772-777:vorst",
@@ -1563,9 +1563,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5778",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.273480",
+    "generated": "2024-07-15T09:31:53.108844",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -1627,7 +1627,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:fa9b9ac7-6390-4b74-8845-d78284e1ff75",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:eb8307e8-8d3b-4fbe-ba3a-122350430a0b",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:830-842:hofs_grooten",
@@ -1641,9 +1641,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5784",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.273506",
+    "generated": "2024-07-15T09:31:53.108871",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -1705,7 +1705,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:fe666897-a885-4b94-a2b4-c75b3b997926",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:d1ffda0a-381c-4b2a-8f09-d4f6733ff6b2",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:884-893:candianen",
@@ -1719,9 +1719,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5790",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.273535",
+    "generated": "2024-07-15T09:31:53.108900",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -1783,7 +1783,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:569f8fab-5364-4fa5-9bfc-88903c07a667",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:e72911f5-59ca-4a88-b6d3-5d36907dda14",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:919-928:schrijven",
@@ -1797,9 +1797,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5796",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.273560",
+    "generated": "2024-07-15T09:31:53.108927",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -1861,7 +1861,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:651c98f6-0aef-4415-abb7-f6ff658f9a0a",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:88039213-e8bf-4ba7-aba3-52f495a0cd80",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:933-948:gisterigen_dato",
@@ -1875,9 +1875,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5802",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.273587",
+    "generated": "2024-07-15T09:31:53.108954",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -1939,7 +1939,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:b50675b8-2ba8-4f7e-88df-a631dfaa61eb",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:2c4e0203-36dc-4ab6-8daf-c95b4abe52ad",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:1023-1030:scomp",
@@ -1953,9 +1953,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5808",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.273614",
+    "generated": "2024-07-15T09:31:53.108983",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -2017,7 +2017,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:da139546-b6dc-4cfb-9a23-e56ac5b8ba8f",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:0bb76411-fc0d-403b-ab1c-f68b9a6527eb",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:1040-1046:paddij",
@@ -2031,9 +2031,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5814",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.273640",
+    "generated": "2024-07-15T09:31:53.109010",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -2095,7 +2095,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:26062b58-6065-4dda-bbef-aba560f20b0c",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:a49ad6bd-6d1f-42c1-bbd1-2452ad980748",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:1087-1097:hofsgroten",
@@ -2109,9 +2109,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5820",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.273666",
+    "generated": "2024-07-15T09:31:53.109036",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -2173,7 +2173,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:fac349cd-570c-4d92-9c53-0d6b353de8fc",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:4538f9b2-b977-478a-a7e9-8871f70f827a",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:1158-1166:linwaten",
@@ -2187,9 +2187,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5826",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.273691",
+    "generated": "2024-07-15T09:31:53.109064",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -2251,7 +2251,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:01fdd036-048c-45e0-b6cf-fd46f4550b20",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:03c58985-b006-451d-9216-339413b6f207",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:1214-1221:kledere",
@@ -2265,9 +2265,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5832",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.273720",
+    "generated": "2024-07-15T09:31:53.109091",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -2329,7 +2329,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:c1469f74-2ec3-4687-bba8-60bfaaf2c652",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:b4409cc7-5e1d-4ce2-a8d8-a1e7ae58eead",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:1244-1256:thonijs_volk",
@@ -2343,9 +2343,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5838",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.273746",
+    "generated": "2024-07-15T09:31:53.109118",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -2407,7 +2407,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:473551e7-cf53-46be-9981-985276972553",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:896de708-9915-49c5-88c6-e44f15c74005",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:1353-1358:heere",
@@ -2421,9 +2421,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5844",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.273774",
+    "generated": "2024-07-15T09:31:53.109144",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -2485,7 +2485,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6743ff24-d7e2-4573-b534-d25a450d70ba",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:cb0d0703-d964-451e-b358-b35a05d43ea4",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:1434-1439:comp",
@@ -2499,9 +2499,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5850",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.273800",
+    "generated": "2024-07-15T09:31:53.109172",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -2563,7 +2563,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:32339b1a-9fe3-4bcb-bea4-bbb19f726b5a",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:4f53dd07-678f-4c13-8885-e572d25ba907",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:1541-1554:hofl_grooten",
@@ -2577,9 +2577,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5856",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.273826",
+    "generated": "2024-07-15T09:31:53.109200",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -2641,7 +2641,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:bc31072a-b2bc-4dd1-b4e2-b8bdd841ff75",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:8c35cdcf-5695-4fd8-9d14-646e9b4395a1",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:1630-1642:groot_moeder",
@@ -2655,9 +2655,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5862",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.273852",
+    "generated": "2024-07-15T09:31:53.109227",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -2719,7 +2719,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:e2308c2a-acd1-4d93-a8e2-38e71c889d25",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:1dae5ee2-1039-41ff-bfaf-4f02c02998ea",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:1660-1671:marticattij",
@@ -2733,9 +2733,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5868",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.273883",
+    "generated": "2024-07-15T09:31:53.109262",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -2797,7 +2797,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:72714d37-7e97-461b-942e-0bee800d3067",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:8a91d42f-e0c0-4b84-9c2b-556b3664f7b7",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:1849-1867:particuliere_brief",
@@ -2811,9 +2811,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5874",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.273918",
+    "generated": "2024-07-15T09:31:53.109294",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -2875,7 +2875,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:bf9d8d2b-f535-4973-8b9e-53d9dea907b1",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:fd35aaaa-768e-41c7-aa70-eeb60f028117",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:1871-1880:vaartuijg",
@@ -2889,9 +2889,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5880",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.274020",
+    "generated": "2024-07-15T09:31:53.109328",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -2953,7 +2953,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:4f74cd86-bdcc-4b65-ab22-e6bd00b4d648",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:ef494ff7-6cf8-47b4-bb1d-11223cd5450e",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:2094-2099:heere",
@@ -2967,9 +2967,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5886",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.274091",
+    "generated": "2024-07-15T09:31:53.109359",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -3031,7 +3031,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:1512506d-36ee-438e-8840-f00e1a59cc6c",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:fb4a4c55-ca4c-442e-9c73-30b8f4558904",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:2162-2178:r_s_croonenburgh",
@@ -3045,9 +3045,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5892",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.274150",
+    "generated": "2024-07-15T09:31:53.109409",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -3109,7 +3109,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:29dfa33b-e30f-4ff1-8ae0-90574e88a68c",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:2586733f-7d36-420b-a790-824bc0bcc689",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:2194-2200:manaar",
@@ -3123,9 +3123,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5898",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.274184",
+    "generated": "2024-07-15T09:31:53.109444",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -3187,7 +3187,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:3290a47a-0570-41d0-874c-cdd01bbe9565",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:38615fb2-c32c-4b9c-8c7c-d176fbdb2d61",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:2205-2224:21_e_7ber_a_o_1747",
@@ -3201,9 +3201,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5904",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.274260",
+    "generated": "2024-07-15T09:31:53.109530",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -3265,7 +3265,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:93dc3354-8971-42f9-8fb3-3f5c4c922ba4",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5bdfb9a1-5e2e-4eab-bc5a-3af0cdbde997",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:2238-2247:jean_mipr",
@@ -3279,9 +3279,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5910",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.274306",
+    "generated": "2024-07-15T09:31:53.109580",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -3342,7 +3342,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:dacdddfe-0d52-4be6-a5bd-ef858a37e9c2",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:b28407b7-2c21-4dee-834d-2e8f370d983c",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:entity:NL-HaNA_1.04.02_2693_0117-0119:2248-2259:jsne_clercq",
@@ -3356,9 +3356,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5511",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.274410",
+    "generated": "2024-07-15T09:31:53.109666",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -3413,15 +3413,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6048",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.274446",
+    "generated": "2024-07-15T09:31:53.109696",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
     "body": {
       "purpose": "classifying",
-      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Agent"
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#EventArguments"
     },
     "target": [
       {
@@ -3464,9 +3464,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5511-6048",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.274451",
+    "generated": "2024-07-15T09:31:53.109701",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -3501,7 +3501,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:04564f51-b695-4456-8b9c-9c6c9bef6499",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:04cd728b-dcb3-4a71-ae40-162e055aa746",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:event:NL-HaNA_1.04.02_2693_0117-0119:onderhoorigheeden:5511",
@@ -3527,9 +3527,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5518",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.274490",
+    "generated": "2024-07-15T09:31:53.109745",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -3584,15 +3584,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6054",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.274515",
+    "generated": "2024-07-15T09:31:53.109770",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
     "body": {
       "purpose": "classifying",
-      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Patient"
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#EventArguments"
     },
     "target": [
       {
@@ -3635,9 +3635,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5518-6054",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.274524",
+    "generated": "2024-07-15T09:31:53.109775",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -3672,7 +3672,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:632fd48f-0306-4688-a39f-7b89c653876b",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:dc3dc4d4-01cb-4eb9-b06b-360a38a0a071",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:event:NL-HaNA_1.04.02_2693_0117-0119:overleden:5518",
@@ -3698,9 +3698,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5525",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.274556",
+    "generated": "2024-07-15T09:31:53.109811",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -3755,15 +3755,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6060",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.274583",
+    "generated": "2024-07-15T09:31:53.109835",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
     "body": {
       "purpose": "classifying",
-      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Instrument"
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#EventArguments"
     },
     "target": [
       {
@@ -3806,9 +3806,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5525-6060",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.274588",
+    "generated": "2024-07-15T09:31:53.109839",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -3826,15 +3826,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6063",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.274613",
+    "generated": "2024-07-15T09:31:53.109862",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
     "body": {
       "purpose": "classifying",
-      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Target"
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#EventArguments"
     },
     "target": [
       {
@@ -3877,9 +3877,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5525-6063",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.274616",
+    "generated": "2024-07-15T09:31:53.109865",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -3914,7 +3914,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:b505445c-a034-423c-b0f5-ca581398665d",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:3d43e822-995b-4737-b67d-483f57c165e3",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:event:NL-HaNA_1.04.02_2693_0117-0119:aangekomen:5525",
@@ -3950,9 +3950,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5532",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275103",
+    "generated": "2024-07-15T09:31:53.109897",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -4007,15 +4007,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6070",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275132",
+    "generated": "2024-07-15T09:31:53.109922",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
     "body": {
       "purpose": "classifying",
-      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#AgentPatient"
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#EventArguments"
     },
     "target": [
       {
@@ -4058,9 +4058,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5532-6070",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275137",
+    "generated": "2024-07-15T09:31:53.109927",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -4095,7 +4095,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:d516ace3-bb4a-4533-bc15-39ecbcd02966",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:1f331571-2a5a-4873-8762-2924b0ca5bc9",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:event:NL-HaNA_1.04.02_2693_0117-0119:betuij_gen:5532",
@@ -4121,9 +4121,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5539",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275171",
+    "generated": "2024-07-15T09:31:53.109958",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -4178,15 +4178,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6076",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275194",
+    "generated": "2024-07-15T09:31:53.109981",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
     "body": {
       "purpose": "classifying",
-      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Location"
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#EventArguments"
     },
     "target": [
       {
@@ -4229,9 +4229,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5539-6076",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275199",
+    "generated": "2024-07-15T09:31:53.109988",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -4249,15 +4249,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6079",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275221",
+    "generated": "2024-07-15T09:31:53.110012",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
     "body": {
       "purpose": "classifying",
-      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Patient"
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#EventArguments"
     },
     "target": [
       {
@@ -4300,9 +4300,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5539-6079",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275225",
+    "generated": "2024-07-15T09:31:53.110015",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -4337,7 +4337,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:d8fd8f04-21fb-4539-b8e4-a47588f1c3f2",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:75c8b98e-59ce-49e5-bbbf-669d3831fd80",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:event:NL-HaNA_1.04.02_2693_0117-0119:zijn:5539",
@@ -4373,9 +4373,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5546",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275259",
+    "generated": "2024-07-15T09:31:53.110047",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -4430,15 +4430,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6086",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275284",
+    "generated": "2024-07-15T09:31:53.110075",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
     "body": {
       "purpose": "classifying",
-      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Benefactive"
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#EventArguments"
     },
     "target": [
       {
@@ -4481,9 +4481,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5546-6086",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275288",
+    "generated": "2024-07-15T09:31:53.110080",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -4501,15 +4501,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6089",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275311",
+    "generated": "2024-07-15T09:31:53.110102",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
     "body": {
       "purpose": "classifying",
-      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Patient"
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#EventArguments"
     },
     "target": [
       {
@@ -4552,9 +4552,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5546-6089",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275314",
+    "generated": "2024-07-15T09:31:53.110106",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -4589,7 +4589,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:91815693-d23a-4e9d-af56-9c06095a15fc",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:da6a3536-3ae5-4bf7-9fd0-724909febb9c",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:event:NL-HaNA_1.04.02_2693_0117-0119:gegeven:5546",
@@ -4623,9 +4623,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5553",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275348",
+    "generated": "2024-07-15T09:31:53.110137",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -4697,7 +4697,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:954cfc55-4a20-4a2b-b262-31e459f1ed7e",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:30d0010a-fa80-4607-b221-3a6c6ccd5b54",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:event:NL-HaNA_1.04.02_2693_0117-0119:vertrek:5553",
@@ -4713,9 +4713,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5560",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275377",
+    "generated": "2024-07-15T09:31:53.110165",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -4770,15 +4770,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6096",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275399",
+    "generated": "2024-07-15T09:31:53.110188",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
     "body": {
       "purpose": "classifying",
-      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Patient"
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#EventArguments"
     },
     "target": [
       {
@@ -4821,9 +4821,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5560-6096",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275403",
+    "generated": "2024-07-15T09:31:53.110192",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -4841,15 +4841,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6099",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275426",
+    "generated": "2024-07-15T09:31:53.110212",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
     "body": {
       "purpose": "classifying",
-      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Patient"
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#EventArguments"
     },
     "target": [
       {
@@ -4892,9 +4892,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5560-6099",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275432",
+    "generated": "2024-07-15T09:31:53.110215",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -4929,7 +4929,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:557c0715-45b5-4b5c-9eeb-202caf164a24",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:ee811dad-f838-4b4b-96e9-0a12813632fb",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:event:NL-HaNA_1.04.02_2693_0117-0119:geparenteert:5560",
@@ -4963,9 +4963,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5567",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275463",
+    "generated": "2024-07-15T09:31:53.110249",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -5020,15 +5020,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6106",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275484",
+    "generated": "2024-07-15T09:31:53.110271",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
     "body": {
       "purpose": "classifying",
-      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Agent"
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#EventArguments"
     },
     "target": [
       {
@@ -5071,9 +5071,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5567-6106",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275488",
+    "generated": "2024-07-15T09:31:53.110275",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -5091,15 +5091,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6109",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275512",
+    "generated": "2024-07-15T09:31:53.110296",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
     "body": {
       "purpose": "classifying",
-      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Time"
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#EventArguments"
     },
     "target": [
       {
@@ -5142,9 +5142,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5567-6109",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275516",
+    "generated": "2024-07-15T09:31:53.110300",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -5179,7 +5179,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:f75bf4aa-8127-468c-be7b-b4a4a74279d6",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:9ede26d6-ea01-418f-8fa7-25adcae00cbd",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:event:NL-HaNA_1.04.02_2693_0117-0119:opgedaan:5567",
@@ -5215,9 +5215,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5574",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275551",
+    "generated": "2024-07-15T09:31:53.110335",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -5289,7 +5289,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:080a971c-fff3-4389-97c8-d95654b6aca8",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:12077ffb-10e0-4289-8877-b6db894e8237",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:event:NL-HaNA_1.04.02_2693_0117-0119:afgekomene:5574",
@@ -5305,9 +5305,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5581",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275578",
+    "generated": "2024-07-15T09:31:53.110364",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -5379,7 +5379,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:b7d9594b-ac1f-4a8f-81b7-a4c5478a779a",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:3a369ec5-ca9e-48e6-b151-d6f9ccd69ffd",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:event:NL-HaNA_1.04.02_2693_0117-0119:afgesegt:5581",
@@ -5395,9 +5395,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5588",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275605",
+    "generated": "2024-07-15T09:31:53.110393",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -5469,7 +5469,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6c7a1e34-11bc-48ba-ab7a-71e3f09101b9",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:3f8fc3ed-3197-47f9-be8a-7a9d7237295e",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:event:NL-HaNA_1.04.02_2693_0117-0119:verzoek:5588",
@@ -5485,9 +5485,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5595",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275636",
+    "generated": "2024-07-15T09:31:53.110421",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -5542,15 +5542,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6116",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275659",
+    "generated": "2024-07-15T09:31:53.110442",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
     "body": {
       "purpose": "classifying",
-      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Patient"
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#EventArguments"
     },
     "target": [
       {
@@ -5593,9 +5593,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5595-6116",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275663",
+    "generated": "2024-07-15T09:31:53.110446",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -5630,7 +5630,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:78067772-4dc0-4235-adb4-3072402155c7",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:0ac2376c-5f93-407d-92bd-cf0050375eea",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:event:NL-HaNA_1.04.02_2693_0117-0119:vertrekken:5595",
@@ -5656,9 +5656,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5602",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275691",
+    "generated": "2024-07-15T09:31:53.110476",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -5713,15 +5713,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6122",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275717",
+    "generated": "2024-07-15T09:31:53.110498",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
     "body": {
       "purpose": "classifying",
-      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Agent"
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#EventArguments"
     },
     "target": [
       {
@@ -5764,9 +5764,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5602-6122",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275720",
+    "generated": "2024-07-15T09:31:53.110502",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -5801,7 +5801,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:070efd91-fbb7-455c-bf6f-3786665a8d40",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:0eb018fc-20c6-42bd-a51e-4ca45d3b517d",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:event:NL-HaNA_1.04.02_2693_0117-0119:opdaging:5602",
@@ -5827,9 +5827,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5609",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275754",
+    "generated": "2024-07-15T09:31:53.110531",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -5884,15 +5884,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6128",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275775",
+    "generated": "2024-07-15T09:31:53.110554",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
     "body": {
       "purpose": "classifying",
-      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Agent"
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#EventArguments"
     },
     "target": [
       {
@@ -5935,9 +5935,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5609-6128",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275779",
+    "generated": "2024-07-15T09:31:53.110558",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -5972,7 +5972,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:da942300-a5e8-417d-96aa-25b5658b20c4",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:8a7ad124-4ac4-4b72-8602-4c69ad8c5e09",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:event:NL-HaNA_1.04.02_2693_0117-0119:vertrekken:5609",
@@ -5998,9 +5998,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5616",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275812",
+    "generated": "2024-07-15T09:31:53.110604",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -6055,15 +6055,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6134",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275838",
+    "generated": "2024-07-15T09:31:53.110626",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
     "body": {
       "purpose": "classifying",
-      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Agent"
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#EventArguments"
     },
     "target": [
       {
@@ -6106,9 +6106,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5616-6134",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275841",
+    "generated": "2024-07-15T09:31:53.110631",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -6126,15 +6126,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6137",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275865",
+    "generated": "2024-07-15T09:31:53.110653",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
     "body": {
       "purpose": "classifying",
-      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Patient"
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#EventArguments"
     },
     "target": [
       {
@@ -6177,9 +6177,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5616-6137",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275869",
+    "generated": "2024-07-15T09:31:53.110657",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -6214,7 +6214,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:ef3fc30c-d835-4912-8c3d-bcac26b887a1",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:be0e2b2a-843e-48ec-a837-e4ac429b4310",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:event:NL-HaNA_1.04.02_2693_0117-0119:hare:5616",
@@ -6248,9 +6248,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5623",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275902",
+    "generated": "2024-07-15T09:31:53.110687",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -6305,15 +6305,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6144",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275924",
+    "generated": "2024-07-15T09:31:53.110711",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
     "body": {
       "purpose": "classifying",
-      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Patient"
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#EventArguments"
     },
     "target": [
       {
@@ -6356,9 +6356,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5623-6144",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275929",
+    "generated": "2024-07-15T09:31:53.110715",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -6376,15 +6376,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6147",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275950",
+    "generated": "2024-07-15T09:31:53.110736",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
     "body": {
       "purpose": "classifying",
-      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Patient"
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#EventArguments"
     },
     "target": [
       {
@@ -6427,9 +6427,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5623-6147",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275955",
+    "generated": "2024-07-15T09:31:53.110740",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -6447,15 +6447,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6150",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275979",
+    "generated": "2024-07-15T09:31:53.110761",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
     "body": {
       "purpose": "classifying",
-      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Location"
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#EventArguments"
     },
     "target": [
       {
@@ -6498,9 +6498,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5623-6150",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.275982",
+    "generated": "2024-07-15T09:31:53.110764",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -6535,7 +6535,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:3c2e4ec6-b53f-4781-aaa6-9f2e02444106",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:450b1fee-0ad5-4ba0-b6db-e19188a98bf8",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:event:NL-HaNA_1.04.02_2693_0117-0119:aanhouden:5623",
@@ -6579,9 +6579,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5630",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.276013",
+    "generated": "2024-07-15T09:31:53.110797",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -6636,15 +6636,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6158",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.276039",
+    "generated": "2024-07-15T09:31:53.110819",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
     "body": {
       "purpose": "classifying",
-      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#AgentPatient"
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#EventArguments"
     },
     "target": [
       {
@@ -6687,9 +6687,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5630-6158",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.276043",
+    "generated": "2024-07-15T09:31:53.110823",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -6707,15 +6707,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6161",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.276064",
+    "generated": "2024-07-15T09:31:53.110844",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
     "body": {
       "purpose": "classifying",
-      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#AgentPatient"
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#EventArguments"
     },
     "target": [
       {
@@ -6758,9 +6758,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5630-6161",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.276068",
+    "generated": "2024-07-15T09:31:53.110848",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -6795,7 +6795,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:61c43e53-c000-44d5-9e12-456d39fb5e85",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:b71cb789-c88a-4d0a-9470-022c3ec62f20",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:event:NL-HaNA_1.04.02_2693_0117-0119:misnoegen:5630",
@@ -6829,9 +6829,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5637",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.276097",
+    "generated": "2024-07-15T09:31:53.110879",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -6886,15 +6886,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6168",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.276121",
+    "generated": "2024-07-15T09:31:53.110902",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
     "body": {
       "purpose": "classifying",
-      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#AgentPatient"
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#EventArguments"
     },
     "target": [
       {
@@ -6937,9 +6937,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5637-6168",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.276125",
+    "generated": "2024-07-15T09:31:53.110906",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -6974,7 +6974,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:67978f65-f8a8-46d2-aae2-593c329c2297",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:665efa27-1b97-47f1-b055-89daed133c44",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:event:NL-HaNA_1.04.02_2693_0117-0119:respect_bewijzen:5637",
@@ -7000,9 +7000,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5644",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.276170",
+    "generated": "2024-07-15T09:31:53.110936",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -7057,15 +7057,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6174",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.276191",
+    "generated": "2024-07-15T09:31:53.110961",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
     "body": {
       "purpose": "classifying",
-      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Time"
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#EventArguments"
     },
     "target": [
       {
@@ -7108,9 +7108,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5644-6174",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.276198",
+    "generated": "2024-07-15T09:31:53.110964",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -7128,15 +7128,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6177",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.276219",
+    "generated": "2024-07-15T09:31:53.110986",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
     "body": {
       "purpose": "classifying",
-      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Patient"
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#EventArguments"
     },
     "target": [
       {
@@ -7179,9 +7179,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5644-6177",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.276223",
+    "generated": "2024-07-15T09:31:53.110990",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -7199,15 +7199,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6180",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.276244",
+    "generated": "2024-07-15T09:31:53.111011",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
     "body": {
       "purpose": "classifying",
-      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#Location"
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#EventArguments"
     },
     "target": [
       {
@@ -7250,9 +7250,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5644-6180",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.276247",
+    "generated": "2024-07-15T09:31:53.111015",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -7287,7 +7287,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6076e3a5-caee-4dfc-a40e-6742485aada9",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5f219bba-d80a-4a00-9986-4c6e41e1f6e3",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:event:NL-HaNA_1.04.02_2693_0117-0119:is:5644",
@@ -7333,9 +7333,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5651",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.276284",
+    "generated": "2024-07-15T09:31:53.111055",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -7390,15 +7390,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6188",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.276309",
+    "generated": "2024-07-15T09:31:53.111083",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
     "body": {
       "purpose": "classifying",
-      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#AgentPatient"
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#EventArguments"
     },
     "target": [
       {
@@ -7441,9 +7441,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5651-6188",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.276314",
+    "generated": "2024-07-15T09:31:53.111087",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -7461,15 +7461,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:6191",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.276334",
+    "generated": "2024-07-15T09:31:53.111109",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
     "body": {
       "purpose": "classifying",
-      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#AgentPatient"
+      "source": "https://github.com/globalise-huygens/nlp-event-detection/wiki#EventArguments"
     },
     "target": [
       {
@@ -7512,9 +7512,9 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:5651-6191",
     "type": "Annotation",
-    "generated": "2024-06-27T13:19:03.276338",
+    "generated": "2024-07-15T09:31:53.111119",
     "generator": {
-      "id": "https://github.com/knaw-huc/globalise-tools/blob/45745f06b1aea8cab4b1742655faf25c39460e23/scripts/gt-xmi-to-wa.py",
+      "id": "https://github.com/knaw-huc/globalise-tools/blob/a5babe929c4b05a6603e9be1eefdc093c93c71c8/scripts/gt-xmi-to-wa.py",
       "type": "Software",
       "name": "scripts/gt-xmi-to-wa.py"
     },
@@ -7549,7 +7549,7 @@
         }
       }
     ],
-    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:ab1782c3-7a70-4367-9131-3fbe02a6b7a3",
+    "id": "urn:globalise:annotation:NL-HaNA_1.04.02_2693_0117-0119:2c1383f6-18b7-4aeb-883f-abd8c37acdfd",
     "type": "Annotation",
     "body": {
       "id": "urn:globalise:event:NL-HaNA_1.04.02_2693_0117-0119:genegentheid:5651",
